@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>heterogeneous data | Shirui Pan</title>
+    <link>/tags/heterogeneous-data/</link>
+      <atom:link href="/tags/heterogeneous-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>heterogeneous data</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>heterogeneous data</title>
+      <link>/tags/heterogeneous-data/</link>
+    </image>
+    
+    <item>
+      <title>Cost-sensitive parallel learning framework for insurance intelligence operation</title>
+      <link>/publication/jiang-cost-sensitive-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/jiang-cost-sensitive-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

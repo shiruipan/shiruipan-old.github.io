@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zonghan Wu | Shirui Pan</title>
+    <link>/authors/zonghan-wu/</link>
+      <atom:link href="/authors/zonghan-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zonghan Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Zonghan Wu</title>
+      <link>/authors/zonghan-wu/</link>
+    </image>
+    
+    <item>
+      <title>A comprehensive survey on graph neural networks</title>
+      <link>/publication/wu-2019-comprehensive/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wu-2019-comprehensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph WaveNet for Deep Spatial-Temporal Graph Modeling</title>
+      <link>/publication/ijcai-2019-wu/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ijcai-2019-wu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

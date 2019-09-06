@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adversarial regularization;graph autoencoder;graph clustering;graph convolutional networks (GCNs);graph embedding;link prediction | Shirui Pan</title>
+    <link>/tags/adversarial-regularizationgraph-autoencodergraph-clusteringgraph-convolutional-networks-gcnsgraph-embeddinglink-prediction/</link>
+      <atom:link href="/tags/adversarial-regularizationgraph-autoencodergraph-clusteringgraph-convolutional-networks-gcnsgraph-embeddinglink-prediction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adversarial regularization;graph autoencoder;graph clustering;graph convolutional networks (GCNs);graph embedding;link prediction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Adversarial regularization;graph autoencoder;graph clustering;graph convolutional networks (GCNs);graph embedding;link prediction</title>
+      <link>/tags/adversarial-regularizationgraph-autoencodergraph-clusteringgraph-convolutional-networks-gcnsgraph-embeddinglink-prediction/</link>
+    </image>
+    
+    <item>
+      <title>Learning Graph Embedding With Adversarial Training Methods</title>
+      <link>/publication/tcyb-2019-pan/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tcyb-2019-pan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

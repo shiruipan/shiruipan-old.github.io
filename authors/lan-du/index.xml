@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lan Du | Shirui Pan</title>
+    <link>/authors/lan-du/</link>
+      <atom:link href="/authors/lan-du/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lan Du</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Lan Du</title>
+      <link>/authors/lan-du/</link>
+    </image>
+    
+    <item>
+      <title>Long-short Distance Aggregation Networks for Positive Unlabeled Graph Learning</title>
+      <link>/publication/cikm-19-wu/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/cikm-19-wu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

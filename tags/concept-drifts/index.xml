@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>concept drifts | Shirui Pan</title>
+    <link>/tags/concept-drifts/</link>
+      <atom:link href="/tags/concept-drifts/index.xml" rel="self" type="application/rss+xml" />
+    <description>concept drifts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>concept drifts</title>
+      <link>/tags/concept-drifts/</link>
+    </image>
+    
+    <item>
+      <title>Hashing for adaptive real-time graph stream classification with concept drifts</title>
+      <link>/publication/chi-hashing-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/chi-hashing-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

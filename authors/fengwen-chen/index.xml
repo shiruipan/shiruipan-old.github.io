@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fengwen Chen | Shirui Pan</title>
+    <link>/authors/fengwen-chen/</link>
+      <atom:link href="/authors/fengwen-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fengwen Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Fengwen Chen</title>
+      <link>/authors/fengwen-chen/</link>
+    </image>
+    
+    <item>
+      <title>A comprehensive survey on graph neural networks</title>
+      <link>/publication/wu-2019-comprehensive/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wu-2019-comprehensive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

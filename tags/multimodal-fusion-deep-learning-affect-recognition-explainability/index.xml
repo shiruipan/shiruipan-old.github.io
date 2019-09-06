@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multimodal fusion; deep learning; affect recognition; explainability | Shirui Pan</title>
+    <link>/tags/multimodal-fusion-deep-learning-affect-recognition-explainability/</link>
+      <atom:link href="/tags/multimodal-fusion-deep-learning-affect-recognition-explainability/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multimodal fusion; deep learning; affect recognition; explainability</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Multimodal fusion; deep learning; affect recognition; explainability</title>
+      <link>/tags/multimodal-fusion-deep-learning-affect-recognition-explainability/</link>
+    </image>
+    
+    <item>
+      <title>An Effective and Explainable Deep Fusion Network for Affect Recognition Using Physiological Signals</title>
+      <link>/publication/cikm-19-lin/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/cikm-19-lin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

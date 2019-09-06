@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Implicit User Influence | Shirui Pan</title>
+    <link>/tags/implicit-user-influence/</link>
+      <atom:link href="/tags/implicit-user-influence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Implicit User Influence</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Implicit User Influence</title>
+      <link>/tags/implicit-user-influence/</link>
+    </image>
+    
+    <item>
+      <title>Exploiting Implicit Influence from Information Propagation for Social Recommendation</title>
+      <link>/publication/tcyb-2019-xiong/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tcyb-2019-xiong/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

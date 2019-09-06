@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>non-negative matrix tri-factorization | Shirui Pan</title>
+    <link>/tags/non-negative-matrix-tri-factorization/</link>
+      <atom:link href="/tags/non-negative-matrix-tri-factorization/index.xml" rel="self" type="application/rss+xml" />
+    <description>non-negative matrix tri-factorization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>non-negative matrix tri-factorization</title>
+      <link>/tags/non-negative-matrix-tri-factorization/</link>
+    </image>
+    
+    <item>
+      <title>Multi-document summarization based on sentence cluster using Non-negative Matrix Factorization</title>
+      <link>/publication/yang-multi-document-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/yang-multi-document-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

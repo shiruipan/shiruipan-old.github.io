@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cross-view feature selection | Shirui Pan</title>
+    <link>/tags/cross-view-feature-selection/</link>
+      <atom:link href="/tags/cross-view-feature-selection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cross-view feature selection</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Cross-view feature selection</title>
+      <link>/tags/cross-view-feature-selection/</link>
+    </image>
+    
+    <item>
+      <title>Exploring features for complicated objects: cross-view feature selection for multi-instance learning</title>
+      <link>/publication/wu-exploring-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/wu-exploring-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

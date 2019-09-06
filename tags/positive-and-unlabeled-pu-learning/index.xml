@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>positive and unlabeled (PU) learning | Shirui Pan</title>
+    <link>/tags/positive-and-unlabeled-pu-learning/</link>
+      <atom:link href="/tags/positive-and-unlabeled-pu-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>positive and unlabeled (PU) learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>positive and unlabeled (PU) learning</title>
+      <link>/tags/positive-and-unlabeled-pu-learning/</link>
+    </image>
+    
+    <item>
+      <title>Positive and unlabeled multi-graph learning</title>
+      <link>/publication/wu-positive-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wu-positive-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

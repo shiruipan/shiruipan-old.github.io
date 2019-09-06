@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guojia Wan | Shirui Pan</title>
+    <link>/authors/guojia-wan/</link>
+      <atom:link href="/authors/guojia-wan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guojia Wan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Guojia Wan</title>
+      <link>/authors/guojia-wan/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive knowledge subgraph ensemble for robust and trustworthy knowledge graph completion</title>
+      <link>/publication/wwwj-2019-wan/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wwwj-2019-wan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

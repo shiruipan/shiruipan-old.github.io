@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Shirui Pan</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Chengqi Zhang</title>
+      <link>/authors/chengqi-zhang/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/chengqi-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fengwen Chen</title>
+      <link>/authors/fengwen-chen/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/fengwen-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guodong Long</title>
+      <link>/authors/guodong-long/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/guodong-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philip S Yu</title>
+      <link>/authors/philip-s-yu/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/philip-s-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shirui Pan</title>
+      <link>/authors/shirui-pan/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/shirui-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zonghan Wu</title>
+      <link>/authors/zonghan-wu/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/zonghan-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bin Wang</title>
+      <link>/authors/bin-wang/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/bin-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bo Du</title>
+      <link>/authors/bo-du/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/bo-du/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cheng Siong Lee</title>
+      <link>/authors/cheng-siong-lee/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/cheng-siong-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chuan Zhou</title>
+      <link>/authors/chuan-zhou/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/chuan-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guojia Wan</title>
+      <link>/authors/guojia-wan/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/guojia-wan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ivor W. Tsang</title>
+      <link>/authors/ivor-w.-tsang/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ivor-w.-tsang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jia Wu</title>
+      <link>/authors/jia-wu/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jia-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jing Jiang</title>
+      <link>/authors/jing-jiang/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jing-jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jionghao Lin</title>
+      <link>/authors/jionghao-lin/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jionghao-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lan Du</title>
+      <link>/authors/lan-du/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/lan-du/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lei Pan</title>
+      <link>/authors/lei-pan/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/lei-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Man Wu</title>
+      <link>/authors/man-wu/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/man-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruiqi Hu</title>
+      <link>/authors/ruiqi-hu/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ruiqi-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sai-Fu Fung</title>
+      <link>/authors/sai-fu-fung/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/sai-fu-fung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharon Oviatt</title>
+      <link>/authors/sharon-oviatt/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/sharon-oviatt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shichao Zhu</title>
+      <link>/authors/shichao-zhu/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/shichao-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xingquan Zhu</title>
+      <link>/authors/xingquan-zhu/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/xingquan-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fei Xiong</title>
+      <link>/authors/fei-xiong/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/fei-xiong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hongshu Chen</title>
+      <link>/authors/hongshu-chen/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/hongshu-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weihan Shen</title>
+      <link>/authors/weihan-shen/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/weihan-shen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ximeng Wang</title>
+      <link>/authors/ximeng-wang/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ximeng-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zheng Yan</title>
+      <link>/authors/zheng-yan/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/zheng-yan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chun Wang</title>
+      <link>/authors/chun-wang/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/chun-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dingqi Yang</title>
+      <link>/authors/dingqi-yang/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/dingqi-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hong Yang</title>
+      <link>/authors/hong-yang/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/hong-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liang Wang</title>
+      <link>/authors/liang-wang/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/liang-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ling Chen</title>
+      <link>/authors/ling-chen/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ling-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peng Zhang</title>
+      <link>/authors/peng-zhang/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/peng-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhiwen Yu</title>
+      <link>/authors/zhiwen-yu/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/zhiwen-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Donna Xu</title>
+      <link>/authors/donna-xu/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/donna-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haishuai Wang</title>
+      <link>/authors/haishuai-wang/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/haishuai-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junjun Jiang</title>
+      <link>/authors/junjun-jiang/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/junjun-jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Min Zuo</title>
+      <link>/authors/min-zuo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/min-zuo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qin Zhang</title>
+      <link>/authors/qin-zhang/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/qin-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sen Wang</title>
+      <link>/authors/sen-wang/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/sen-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shaoxiong Ji</title>
+      <link>/authors/shaoxiong-ji/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/shaoxiong-ji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shuaiqiang Wang</title>
+      <link>/authors/shuaiqiang-wang/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/shuaiqiang-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tianqing Zhu</title>
+      <link>/authors/tianqing-zhu/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/tianqing-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ting Guo</title>
+      <link>/authors/ting-guo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ting-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaoyan Cai</title>
+      <link>/authors/xiaoyan-cai/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/xiaoyan-cai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xinxin Jiang</title>
+      <link>/authors/xinxin-jiang/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/xinxin-jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yaxin Shi</title>
+      <link>/authors/yaxin-shi/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yaxin-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yingjie Tian</title>
+      <link>/authors/yingjie-tian/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yingjie-tian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yixin Chen</title>
+      <link>/authors/yixin-chen/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yixin-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuangang Pan</title>
+      <link>/authors/yuangang-pan/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yuangang-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuanyuan Cai</title>
+      <link>/authors/yuanyuan-cai/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yuanyuan-cai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhihua Cai</title>
+      <link>/authors/zhihua-cai/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/zhihua-cai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>And Li Guo</title>
+      <link>/authors/and-li-guo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/and-li-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bin Li</title>
+      <link>/authors/bin-li/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/bin-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Celina Ping Yu</title>
+      <link>/authors/celina-ping-yu/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/celina-ping-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defu Lian</title>
+      <link>/authors/defu-lian/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/defu-lian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gang Li</title>
+      <link>/authors/gang-li/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/gang-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiang Chang</title>
+      <link>/authors/jiang-chang/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/jiang-chang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jinqiao Shi</title>
+      <link>/authors/jinqiao-shi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/jinqiao-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junwei Han</title>
+      <link>/authors/junwei-han/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/junwei-han/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Li Gao</title>
+      <link>/authors/li-gao/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/li-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Li Zhu</title>
+      <link>/authors/li-zhu/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/li-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lianhua Chi</title>
+      <link>/authors/lianhua-chi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/lianhua-chi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Libin Yang</title>
+      <link>/authors/libin-yang/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/libin-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lina Yao</title>
+      <link>/authors/lina-yao/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/lina-yao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mengyu Zheng</title>
+      <link>/authors/mengyu-zheng/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/mengyu-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philip S. Yu</title>
+      <link>/authors/philip-s.-yu/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/philip-s.-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qi Yu</title>
+      <link>/authors/qi-yu/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/qi-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quan Sen Sun</title>
+      <link>/authors/quan-sen-sun/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/quan-sen-sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renxian Zhang</title>
+      <link>/authors/renxian-zhang/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/renxian-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sheng Yuan</title>
+      <link>/authors/sheng-yuan/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/sheng-yuan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siqi Ma</title>
+      <link>/authors/siqi-ma/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/siqi-ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tao Dai</title>
+      <link>/authors/tao-dai/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/tao-dai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tao Shen</title>
+      <link>/authors/tao-shen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/tao-shen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tianyi Zhou</title>
+      <link>/authors/tianyi-zhou/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/tianyi-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tianyu Gao</title>
+      <link>/authors/tianyu-gao/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/tianyu-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weiwei Liu</title>
+      <link>/authors/weiwei-liu/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/weiwei-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weiwei Xing</title>
+      <link>/authors/weiwei-xing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/weiwei-xing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenjie Li</title>
+      <link>/authors/wenjie-li/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/wenjie-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wu He</title>
+      <link>/authors/wu-he/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/wu-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaobo Shen</title>
+      <link>/authors/xiaobo-shen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/xiaobo-shen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaoping Che</title>
+      <link>/authors/xiaoping-che/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/xiaoping-che/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xindong Wu</title>
+      <link>/authors/xindong-wu/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/xindong-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yew Soon Ong</title>
+      <link>/authors/yew-soon-ong/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/yew-soon-ong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yu Zheng</title>
+      <link>/authors/yu-zheng/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/yu-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yue Hu</title>
+      <link>/authors/yue-hu/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/yue-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuxiang Yang</title>
+      <link>/authors/yuxiang-yang/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/yuxiang-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dejun Mu</title>
+      <link>/authors/dejun-mu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/dejun-mu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hang Dai</title>
+      <link>/authors/hang-dai/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/hang-dai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lin Wu</title>
+      <link>/authors/lin-wu/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/lin-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mei Li</title>
+      <link>/authors/mei-li/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/mei-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meng Fang</title>
+      <link>/authors/meng-fang/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/meng-fang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xuemin Lin</title>
+      <link>/authors/xuemin-lin/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/xuemin-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yang Wang</title>
+      <link>/authors/yang-wang/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/yang-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yang Zhang</title>
+      <link>/authors/yang-zhang/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/yang-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhang Wenjie</title>
+      <link>/authors/zhang-wenjie/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/zhang-wenjie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhibin Hong</title>
+      <link>/authors/zhibin-hong/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/zhibin-hong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bi Wu</title>
+      <link>/authors/bi-wu/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/bi-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xue Li</title>
+      <link>/authors/xue-li/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/xue-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dongjian He</title>
+      <link>/authors/dongjian-he/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/dongjian-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jinglei Tang</title>
+      <link>/authors/jinglei-tang/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/jinglei-tang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kuan Wu</title>
+      <link>/authors/kuan-wu/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/kuan-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Shirui Pan is a Lecturer with the &lt;a href=&#34;https://www.monash.edu/it/our-research/strengths/data-science/machine-learning&#34; target=&#34;_blank&#34;&gt;Machine Learning Group&lt;/a&gt;, &lt;a href=&#34;https://www.monash.edu/it&#34; target=&#34;_blank&#34;&gt;Faculty of Information Technology&lt;/a&gt;, &lt;a href=&#34;https://www.monash.edu/&#34; target=&#34;_blank&#34;&gt;Monash University&lt;/a&gt;. Prior to this, he was a Lecturer with the &lt;a href = &#34;https://www.uts.edu.au/research-and-teaching/our-research/centre-artificial-intelligence&#34;&gt; Centre for Artificial Intelligence (CAI)&lt;/a&gt;, School of Software, &lt;a href=&#34;https://www.uts.edu.au/about/faculty-engineering-and-information-technology&#34;&gt; Faculty of Engineering and Information Technology&lt;/a&gt;,  &lt;a href = &#34;https://uts.edu.au&#34;&gt; University of Technology Sydney(UTS)&lt;/a&gt;. Shirui received his Ph.D degree in computer science from UTS, Australia,  under the supervision of Professor  &lt;a href = &#34;https://www.uts.edu.au/staff/chengqi.zhang&#34;&gt; Chengqi Zhang &lt;/a&gt; and &lt;a href = &#34;http://www.cse.fau.edu/~xqzhu&#34;&gt; Xingquan Zhu&lt;/a&gt;.  His research interests include data mining and machine learning, specialized in graph mining and network analysis.&lt;/p&gt;
+
+&lt;p&gt;I am looking for self-motivated Ph.D students funded by: (1) &lt;a href=&#39;https://www.monash.edu/graduate-research/future-students/scholarships&#39;&gt; Monash Scholarships&lt;/a&gt;, and (2)&lt;a href=&#34;https://www.monash.edu/graduate-research/future-students/scholarships/china-scholarship-council&#34;&gt; China Scholarship Council (CSC)&lt;/a&gt;. See how to apply &lt;a href=&#39;https://www.monash.edu/graduate-research/future-students/apply&#39;&gt;here&lt;/a&gt;. Please send me your CV, transcripts, and any publications if you are interested.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

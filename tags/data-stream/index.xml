@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data stream | Shirui Pan</title>
+    <link>/tags/data-stream/</link>
+      <atom:link href="/tags/data-stream/index.xml" rel="self" type="application/rss+xml" />
+    <description>data stream</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>data stream</title>
+      <link>/tags/data-stream/</link>
+    </image>
+    
+    <item>
+      <title>CGStream: Continuous correlated graph query for data streams</title>
+      <link>/publication/pan-cgstream-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/pan-cgstream-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

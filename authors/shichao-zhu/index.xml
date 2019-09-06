@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shichao Zhu | Shirui Pan</title>
+    <link>/authors/shichao-zhu/</link>
+      <atom:link href="/authors/shichao-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shichao Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Shichao Zhu</title>
+      <link>/authors/shichao-zhu/</link>
+    </image>
+    
+    <item>
+      <title>Relation Structure-Aware Heterogeneous Graph Neural Network</title>
+      <link>/publication/icdm-19-zhu/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/icdm-19-zhu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
