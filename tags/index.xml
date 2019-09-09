@@ -21,10 +21,10 @@
     </item>
     
     <item>
-      <title>Adversarial regularization;graph autoencoder;graph clustering;graph convolutional networks (GCNs);graph embedding;link prediction</title>
-      <link>/tags/adversarial-regularizationgraph-autoencodergraph-clusteringgraph-convolutional-networks-gcnsgraph-embeddinglink-prediction/</link>
+      <title>Adversarial regularization</title>
+      <link>/tags/adversarial-regularization/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/adversarial-regularizationgraph-autoencodergraph-clusteringgraph-convolutional-networks-gcnsgraph-embeddinglink-prediction/</guid>
+      <guid>/tags/adversarial-regularization/</guid>
       <description></description>
     </item>
     
@@ -33,6 +33,22 @@
       <link>/tags/domain-adaptation/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/tags/domain-adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph autoencoder</title>
+      <link>/tags/graph-autoencoder/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/graph-autoencoder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph clustering</title>
+      <link>/tags/graph-clustering/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/graph-clustering/</guid>
       <description></description>
     </item>
     
@@ -49,6 +65,14 @@
       <link>/tags/knowledge-graph/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/tags/knowledge-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>link prediction</title>
+      <link>/tags/link-prediction/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/link-prediction/</guid>
       <description></description>
     </item>
     
@@ -861,7 +885,7 @@
     </item>
     
     <item>
-      <title>boosting</title>
+      <title>Boosting</title>
       <link>/tags/boosting/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/tags/boosting/</guid>
@@ -881,22 +905,6 @@
       <link>/tags/features/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/tags/features/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph autoencoder</title>
-      <link>/tags/graph-autoencoder/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/graph-autoencoder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph clustering</title>
-      <link>/tags/graph-clustering/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/graph-clustering/</guid>
       <description></description>
     </item>
     

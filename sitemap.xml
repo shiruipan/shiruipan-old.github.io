@@ -53,12 +53,12 @@
   </url>
   
   <url>
-    <loc>/authors/shirui-pan/</loc>
+    <loc>/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/authors/shirui-pan/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>/tags/adversarial-regularizationgraph-autoencodergraph-clusteringgraph-convolutional-networks-gcnsgraph-embeddinglink-prediction/</loc>
+    <loc>/tags/adversarial-regularization/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -119,6 +119,16 @@
   
   <url>
     <loc>/publication/icdm-19-wu/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/graph-autoencoder/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/graph-clustering/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -169,6 +179,11 @@
   
   <url>
     <loc>/authors/lei-pan/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/link-prediction/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1249,16 +1264,6 @@
   
   <url>
     <loc>/tags/features/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/graph-autoencoder/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/graph-clustering/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
