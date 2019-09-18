@@ -5,7 +5,7 @@
     <link>/tags/graph-classification/</link>
       <atom:link href="/tags/graph-classification/index.xml" rel="self" type="application/rss+xml" />
     <description>graph-classification</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>graph-classification</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>Multiple structure-view learning for graph classification</title>
-      <link>/publication/wu-multiple-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/wu-multiple-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discriminative Subgraph Mining For Graph Classification</title>
+      <title>Graph Classification</title>
       <link>/project/graph-classification-task/</link>
-      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/project/graph-classification-task/</guid>
       <description>&lt;p&gt;Recent years have witnessed an increasing number of applications involving objects with structural relationships, including chemical compounds in Bioinformatics, brain networks, image structures, and academic citation networks. For these applications, graph is a natural and powerful tool for modeling and capturing dependency relationships between objects.&lt;/p&gt;
 
@@ -31,6 +23,14 @@
 
 &lt;p&gt;&lt;img src=&#34;../../img/VectorVsGraph.png&#34; alt=&#34;where is the image&#34; /&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Multiple structure-view learning for graph classification</title>
+      <link>/publication/wu-multiple-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wu-multiple-2018/</guid>
+      <description></description>
     </item>
     
     <item>

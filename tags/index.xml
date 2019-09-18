@@ -213,6 +213,14 @@
     </item>
     
     <item>
+      <title>graph-classification</title>
+      <link>/tags/graph-classification/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/graph-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Analytical models</title>
       <link>/tags/analytical-models/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -649,14 +657,6 @@
       <link>/tags/graph-stream-classification/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/tags/graph-stream-classification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>graph-classification</title>
-      <link>/tags/graph-classification/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/graph-classification/</guid>
       <description></description>
     </item>
     

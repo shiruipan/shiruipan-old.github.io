@@ -5,12 +5,108 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Shirui Pan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Shirui Pan</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>PhD/Visitor Positions</title>
+      <link>/post/phd_position/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/post/phd_position/</guid>
+      <description>
+
+&lt;p&gt;I am looking for self-motivated Ph.D students funded by: (1) &lt;a href=&#39;https://www.monash.edu/graduate-research/future-students/scholarships&#39;&gt; Monash Scholarships&lt;/a&gt;, and (2)&lt;a href=&#34;https://www.monash.edu/graduate-research/future-students/scholarships/china-scholarship-council&#34;&gt; China Scholarship Council (CSC)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Visitors with self-funding for 6 months to 1 year are welcome.&lt;/p&gt;
+
+&lt;h3 id=&#34;institution&#34;&gt;Institution&lt;/h3&gt;
+
+&lt;p&gt;Monash University is one of the prestigious universities in Australia. It is a member of &amp;ldquo;Group of Eight&amp;rdquo;. Monash University is ranked in the top 75 globally in the following ranking systems:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2020 QS Ranking: 58&lt;/li&gt;
+&lt;li&gt;2020 Times Higher Education World University Ranking: 75&lt;/li&gt;
+&lt;li&gt;2019 Academic Ranking of World Universities Ranking: 73&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;research-group&#34;&gt;Research Group&lt;/h3&gt;
+
+&lt;p&gt;This research group mainly focues on data mining, machine learning, NLP, deep learning, graph data analytics, and AI applications. The research group consists of a number of Phd students working on the following area (Potential PhD/minor thesis/honours research topics include but are not limited to):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt; Graph &amp;amp; Network Analytics &lt;/b&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Graph Nerual Networks&lt;/li&gt;
+&lt;li&gt;Graph Attack and Defence&lt;/li&gt;
+&lt;li&gt;Social Recommendation&lt;/li&gt;
+&lt;li&gt;Knowledge Graph&lt;/li&gt;
+&lt;li&gt;Graph Embedding&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt; Deep Learning &lt;/b&gt;
+
+&lt;ol&gt;
+&lt;li&gt;AutoML (Neural Architecture Search)&lt;/li&gt;
+&lt;li&gt;Adversarial deep learning&lt;/li&gt;
+&lt;li&gt;Deep learning for graph Data&lt;/li&gt;
+&lt;li&gt;Deep spatial temporal modeling&lt;/li&gt;
+&lt;li&gt;Deep reinforcement learning&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt; NLP &lt;/b&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Sentence embedding&lt;/li&gt;
+&lt;li&gt;Attention network&lt;/li&gt;
+&lt;li&gt;Text classification&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt; Time Series/Streaming Data Analytics &lt;/b&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Time series feature selection&lt;/li&gt;
+&lt;li&gt;Time series prediction&lt;/li&gt;
+&lt;li&gt;Data stream/concept drift&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt; Anomaly Detection &lt;/b&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Outlier detection&lt;/li&gt;
+&lt;li&gt;Novelty discovery&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt; AI Applications &lt;/b&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Cyberbullying detection&lt;/li&gt;
+&lt;li&gt;Suicidual detection&lt;/li&gt;
+&lt;li&gt;Healthcare data analytics&lt;/li&gt;
+&lt;li&gt;Recommender system
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;requirements&#34;&gt;Requirements&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A master degree with a computer science related background, and GPA &amp;gt; &lt;sup&gt;85&lt;/sup&gt;&amp;frasl;&lt;sub&gt;100&lt;/sub&gt;. Outstanding students with only undergraduate degree can also be considered, if GPA &amp;gt; &lt;sup&gt;90&lt;/sup&gt;&amp;frasl;&lt;sub&gt;100&lt;/sub&gt;.&lt;/li&gt;
+&lt;li&gt;Outstanding English skills, e.g., IELTS 6.5 overall (no band less than 6.0), TOEFL IBT 79 + (Reading 13, Listening 12, Speaking 18 &amp;amp; Writing 21).&lt;/li&gt;
+&lt;li&gt;A good publication track record.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Others can be found at &lt;a href=&#34;https://www.monash.edu/it/our-research/graduate-research/how-to-apply&#34; target=&#34;_blank&#34;&gt;https://www.monash.edu/it/our-research/graduate-research/how-to-apply&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;deadline&#34;&gt;Deadline&lt;/h3&gt;
+
+&lt;p&gt;There is no deadline, and you can apply at anytime of the year! CSC (China) PhD applications are most welcome.&lt;/p&gt;
+
+&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
+
+&lt;p&gt;Please send me your CV, transcripts, and publication list if you are interested.
+email: shirui.pan at monash.edu&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A comprehensive survey on graph neural networks</title>
@@ -106,6 +202,19 @@
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/publication/ijcai-2019-yang/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Classification</title>
+      <link>/project/graph-classification-task/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/graph-classification-task/</guid>
+      <description>&lt;p&gt;Recent years have witnessed an increasing number of applications involving objects with structural relationships, including chemical compounds in Bioinformatics, brain networks, image structures, and academic citation networks. For these applications, graph is a natural and powerful tool for modeling and capturing dependency relationships between objects.&lt;/p&gt;
+
+&lt;p&gt;Unlike conventional data, where each instance is represented in a feature-value vector format, graphs exhibit node–edge structural relationships and have no natural vector representation. This challenge has motivated many graph classification algorithms in recent years. Given a set of training graphs, each associated with a class label, graph classification aims to learn a model from the training graphs to predict the unseen graphs in future. The following picture shows the difference betweeb classification on vector data and graph data.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/VectorVsGraph.png&#34; alt=&#34;where is the image&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -344,19 +453,6 @@
 &lt;li&gt;Setting Adjustment Prediction: when will the user change the setting of air-conditioner after it is turned on?&lt;/li&gt;
 &lt;li&gt;Device Closure Prediction: when will a user turn off the air-conditioner?&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Discriminative Subgraph Mining For Graph Classification</title>
-      <link>/project/graph-classification-task/</link>
-      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>/project/graph-classification-task/</guid>
-      <description>&lt;p&gt;Recent years have witnessed an increasing number of applications involving objects with structural relationships, including chemical compounds in Bioinformatics, brain networks, image structures, and academic citation networks. For these applications, graph is a natural and powerful tool for modeling and capturing dependency relationships between objects.&lt;/p&gt;
-
-&lt;p&gt;Unlike conventional data, where each instance is represented in a feature-value vector format, graphs exhibit node–edge structural relationships and have no natural vector representation. This challenge has motivated many graph classification algorithms in recent years. Given a set of training graphs, each associated with a class label, graph classification aims to learn a model from the training graphs to predict the unseen graphs in future. The following picture shows the difference betweeb classification on vector data and graph data.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../../img/VectorVsGraph.png&#34; alt=&#34;where is the image&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -733,102 +829,6 @@
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>/publication/he-ensemble-2010/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>PhD/Visitor Positions</title>
-      <link>/post/phd_position/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/phd_position/</guid>
-      <description>
-
-&lt;p&gt;I am looking for self-motivated Ph.D students funded by: (1) &lt;a href=&#39;https://www.monash.edu/graduate-research/future-students/scholarships&#39;&gt; Monash Scholarships&lt;/a&gt;, and (2)&lt;a href=&#34;https://www.monash.edu/graduate-research/future-students/scholarships/china-scholarship-council&#34;&gt; China Scholarship Council (CSC)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Visitors with self-funding for 6 months to 1 year are welcome.&lt;/p&gt;
-
-&lt;h3 id=&#34;institution&#34;&gt;Institution&lt;/h3&gt;
-
-&lt;p&gt;Monash University is one of the prestigious universities in Australia. It is a member of &amp;ldquo;Group of Eight&amp;rdquo;. Monash University is ranked in the top 75 globally in the following ranking systems:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2020 QS Ranking: 58&lt;/li&gt;
-&lt;li&gt;2020 Times Higher Education World University Ranking: 75&lt;/li&gt;
-&lt;li&gt;2019 Academic Ranking of World Universities Ranking: 73&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;research-group&#34;&gt;Research Group&lt;/h3&gt;
-
-&lt;p&gt;This research group mainly focues on data mining, machine learning, NLP, deep learning, graph data analytics, and AI applications. The research group consists of a number of Phd students working on the following area (Potential PhD/minor thesis/honours research topics include but are not limited to):&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt; Graph &amp;amp; Network Analytics &lt;/b&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Graph Nerual Networks&lt;/li&gt;
-&lt;li&gt;Graph Attack and Defence&lt;/li&gt;
-&lt;li&gt;Social Recommendation&lt;/li&gt;
-&lt;li&gt;Knowledge Graph&lt;/li&gt;
-&lt;li&gt;Graph Embedding&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt; Deep Learning &lt;/b&gt;
-
-&lt;ol&gt;
-&lt;li&gt;AutoML (Neural Architecture Search)&lt;/li&gt;
-&lt;li&gt;Adversarial deep learning&lt;/li&gt;
-&lt;li&gt;Deep learning for graph Data&lt;/li&gt;
-&lt;li&gt;Deep spatial temporal modeling&lt;/li&gt;
-&lt;li&gt;Deep reinforcement learning&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt; NLP &lt;/b&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Sentence embedding&lt;/li&gt;
-&lt;li&gt;Attention network&lt;/li&gt;
-&lt;li&gt;Text classification&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt; Time Series/Streaming Data Analytics &lt;/b&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Time series feature selection&lt;/li&gt;
-&lt;li&gt;Time series prediction&lt;/li&gt;
-&lt;li&gt;Data stream/concept drift&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt; Anomaly Detection &lt;/b&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Outlier detection&lt;/li&gt;
-&lt;li&gt;Novelty discovery&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt; AI Applications &lt;/b&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Cyberbullying detection&lt;/li&gt;
-&lt;li&gt;Suicidual detection&lt;/li&gt;
-&lt;li&gt;Healthcare data analytics&lt;/li&gt;
-&lt;li&gt;Recommender system
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;requirements&#34;&gt;Requirements&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;A master degree with a computer science related background, and GPA &amp;gt; &lt;sup&gt;85&lt;/sup&gt;&amp;frasl;&lt;sub&gt;100&lt;/sub&gt;. Outstanding students with only undergraduate degree can also be considered, if GPA &amp;gt; &lt;sup&gt;90&lt;/sup&gt;&amp;frasl;&lt;sub&gt;100&lt;/sub&gt;.&lt;/li&gt;
-&lt;li&gt;Outstanding English skills, e.g., IELTS 6.5 overall (no band less than 6.0), TOEFL IBT 79 + (Reading 13, Listening 12, Speaking 18 &amp;amp; Writing 21).&lt;/li&gt;
-&lt;li&gt;A good publication track record.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Others can be found at &lt;a href=&#34;https://www.monash.edu/it/our-research/graduate-research/how-to-apply&#34; target=&#34;_blank&#34;&gt;https://www.monash.edu/it/our-research/graduate-research/how-to-apply&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;deadline&#34;&gt;Deadline&lt;/h3&gt;
-
-&lt;p&gt;There is no deadline, and you can apply at anytime of the year! CSC (China) PhD applications are most welcome.&lt;/p&gt;
-
-&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
-
-&lt;p&gt;Please send me your CV, transcripts, and publication list if you are interested.
-email: shirui.pan at monash.edu&lt;/p&gt;
-</description>
     </item>
     
   </channel>

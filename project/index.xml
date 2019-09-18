@@ -5,12 +5,25 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Graph Classification</title>
+      <link>/project/graph-classification-task/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/graph-classification-task/</guid>
+      <description>&lt;p&gt;Recent years have witnessed an increasing number of applications involving objects with structural relationships, including chemical compounds in Bioinformatics, brain networks, image structures, and academic citation networks. For these applications, graph is a natural and powerful tool for modeling and capturing dependency relationships between objects.&lt;/p&gt;
+
+&lt;p&gt;Unlike conventional data, where each instance is represented in a feature-value vector format, graphs exhibit node–edge structural relationships and have no natural vector representation. This challenge has motivated many graph classification algorithms in recent years. Given a set of training graphs, each associated with a class label, graph classification aims to learn a model from the training graphs to predict the unseen graphs in future. The following picture shows the difference betweeb classification on vector data and graph data.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/VectorVsGraph.png&#34; alt=&#34;where is the image&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Broadlink AI System and Smart Air-Conditioner</title>
@@ -24,19 +37,6 @@
 &lt;li&gt;Setting Adjustment Prediction: when will the user change the setting of air-conditioner after it is turned on?&lt;/li&gt;
 &lt;li&gt;Device Closure Prediction: when will a user turn off the air-conditioner?&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Discriminative Subgraph Mining For Graph Classification</title>
-      <link>/project/graph-classification-task/</link>
-      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>/project/graph-classification-task/</guid>
-      <description>&lt;p&gt;Recent years have witnessed an increasing number of applications involving objects with structural relationships, including chemical compounds in Bioinformatics, brain networks, image structures, and academic citation networks. For these applications, graph is a natural and powerful tool for modeling and capturing dependency relationships between objects.&lt;/p&gt;
-
-&lt;p&gt;Unlike conventional data, where each instance is represented in a feature-value vector format, graphs exhibit node–edge structural relationships and have no natural vector representation. This challenge has motivated many graph classification algorithms in recent years. Given a set of training graphs, each associated with a class label, graph classification aims to learn a model from the training graphs to predict the unseen graphs in future. The following picture shows the difference betweeb classification on vector data and graph data.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../../img/VectorVsGraph.png&#34; alt=&#34;where is the image&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

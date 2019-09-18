@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/phd_position/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
@@ -49,11 +64,6 @@
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -395,6 +405,21 @@
   <url>
     <loc>/authors/zhiwen-yu/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/graph-classification-task/</loc>
+    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/graph-classification/</loc>
+    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -893,11 +918,6 @@
   </url>
   
   <url>
-    <loc>/tags/graph-classification/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/hashing/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -1223,17 +1243,7 @@
   </url>
   
   <url>
-    <loc>/project/graph-classification-task/</loc>
-    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/effective-network-embedding/</loc>
-    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
     <lastmod>2017-04-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -1843,14 +1853,6 @@
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/phd_position/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
   </url>
   
   <url>
