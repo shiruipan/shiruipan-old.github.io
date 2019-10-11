@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>graph autoencoder | Shirui Pan</title>
+    <title>Graph autoencoder | Shirui Pan</title>
     <link>/tags/graph-autoencoder/</link>
       <atom:link href="/tags/graph-autoencoder/index.xml" rel="self" type="application/rss+xml" />
-    <description>graph autoencoder</description>
+    <description>Graph autoencoder</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>graph autoencoder</title>
+      <title>Graph autoencoder</title>
       <link>/tags/graph-autoencoder/</link>
     </image>
     
