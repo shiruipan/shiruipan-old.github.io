@@ -5,12 +5,36 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>android malware</title>
+      <link>/tags/android-malware/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/android-malware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering</title>
+      <link>/tags/clustering/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph embedding</title>
+      <link>/tags/graph-embedding/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/graph-embedding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Graph Neural Networks</title>
@@ -49,14 +73,6 @@
       <link>/tags/graph-clustering/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/tags/graph-clustering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>graph embedding</title>
-      <link>/tags/graph-embedding/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/graph-embedding/</guid>
       <description></description>
     </item>
     
@@ -125,14 +141,6 @@
     </item>
     
     <item>
-      <title>Clustering</title>
-      <link>/tags/clustering/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/clustering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Complex network</title>
       <link>/tags/complex-network/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
@@ -141,7 +149,7 @@
     </item>
     
     <item>
-      <title>Data mining</title>
+      <title>Data Mining</title>
       <link>/tags/data-mining/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/tags/data-mining/</guid>

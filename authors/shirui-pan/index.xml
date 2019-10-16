@@ -5,12 +5,20 @@
     <link>/authors/shirui-pan/</link>
       <atom:link href="/authors/shirui-pan/index.xml" rel="self" type="application/rss+xml" />
     <description>Shirui Pan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Shirui Pan</title>
       <link>/authors/shirui-pan/</link>
     </image>
+    
+    <item>
+      <title>Familial Clustering For Weakly-labeled Android Malware Using Hybrid Representation Learning</title>
+      <link>/publication/zhang-2019-tifs/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-2019-tifs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A comprehensive survey on graph neural networks</title>

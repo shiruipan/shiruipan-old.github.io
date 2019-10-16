@@ -5,12 +5,68 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Baodi Ning</title>
+      <link>/authors/baodi-ning/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/baodi-ning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ivor Tsang</title>
+      <link>/authors/ivor-tsang/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ivor-tsang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shirui Pan</title>
+      <link>/authors/shirui-pan/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/shirui-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wanlei Zhou</title>
+      <link>/authors/wanlei-zhou/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/wanlei-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yanxin Zhang</title>
+      <link>/authors/yanxin-zhang/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yanxin-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yulei Sui</title>
+      <link>/authors/yulei-sui/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yulei-sui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zheng Zheng</title>
+      <link>/authors/zheng-zheng/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/zheng-zheng/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chengqi Zhang</title>
@@ -41,14 +97,6 @@
       <link>/authors/philip-s-yu/</link>
       <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/philip-s-yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shirui Pan</title>
-      <link>/authors/shirui-pan/</link>
-      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/shirui-pan/</guid>
       <description></description>
     </item>
     
@@ -165,7 +213,7 @@
     </item>
     
     <item>
-      <title>Sai-Fu Fung</title>
+      <title>Sai Fu Fung</title>
       <link>/authors/sai-fu-fung/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/sai-fu-fung/</guid>

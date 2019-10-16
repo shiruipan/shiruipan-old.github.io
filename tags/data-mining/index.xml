@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data mining | Shirui Pan</title>
+    <title>Data Mining | Shirui Pan</title>
     <link>/tags/data-mining/</link>
       <atom:link href="/tags/data-mining/index.xml" rel="self" type="application/rss+xml" />
-    <description>Data mining</description>
+    <description>Data Mining</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Data mining</title>
+      <title>Data Mining</title>
       <link>/tags/data-mining/</link>
     </image>
     
