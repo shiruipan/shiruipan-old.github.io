@@ -29,6 +29,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;2020 QS Ranking: 58&lt;/li&gt;
+&lt;li&gt;2020 US News Ranking:62&lt;/li&gt;
 &lt;li&gt;2020 Times Higher Education World University Ranking: 75&lt;/li&gt;
 &lt;li&gt;2019 Academic Ranking of World Universities Ranking: 73&lt;/li&gt;
 &lt;/ul&gt;
@@ -62,6 +63,7 @@
 &lt;li&gt;Sentence embedding&lt;/li&gt;
 &lt;li&gt;Attention network&lt;/li&gt;
 &lt;li&gt;Text classification&lt;/li&gt;
+&lt;li&gt;Question Answering&lt;/li&gt;
 &lt;/ol&gt;&lt;/li&gt;
 &lt;li&gt;&lt;b&gt; Time Series/Streaming Data Analytics &lt;/b&gt;
 
