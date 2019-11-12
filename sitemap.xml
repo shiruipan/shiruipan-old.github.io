@@ -53,12 +53,12 @@
   </url>
   
   <url>
-    <loc>/authors/shirui-pan/</loc>
+    <loc>/</loc>
     <lastmod>2019-10-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/authors/shirui-pan/</loc>
     <lastmod>2019-10-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,6 +98,11 @@
   </url>
   
   <url>
+    <loc>/authors/zonghan-wu/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/wu-2019-comprehensive/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
@@ -128,8 +133,8 @@
   </url>
   
   <url>
-    <loc>/authors/zonghan-wu/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc>/authors/man-wu/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -244,11 +249,6 @@
   
   <url>
     <loc>/publication/cikm-19-wu/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/man-wu/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
