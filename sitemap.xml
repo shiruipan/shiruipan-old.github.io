@@ -53,12 +53,12 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/authors/shirui-pan/</loc>
     <lastmod>2019-10-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/shirui-pan/</loc>
+    <loc>/</loc>
     <lastmod>2019-10-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,6 +133,11 @@
   </url>
   
   <url>
+    <loc>/authors/guojia-wan/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/man-wu/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -204,11 +209,6 @@
   
   <url>
     <loc>/tags/graph-clustering/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/guojia-wan/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -343,12 +343,12 @@
   </url>
   
   <url>
-    <loc>/publication/ijcai-2019-wang/</loc>
+    <loc>/authors/chun-wang/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/chun-wang/</loc>
+    <loc>/publication/ijcai-2019-wang/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -460,6 +460,11 @@
   <url>
     <loc>/project/</loc>
     <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/shaoxiong-ji/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -679,11 +684,6 @@
   
   <url>
     <loc>/authors/sen-wang/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/shaoxiong-ji/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
