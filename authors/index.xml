@@ -70,6 +70,14 @@
     
     <item>
       <title></title>
+      <link>/authors/fengwen-chen/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/fengwen-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/zonghan-wu/</link>
       <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/zonghan-wu/</guid>
@@ -81,14 +89,6 @@
       <link>/authors/chengqi-zhang/</link>
       <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/chengqi-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fengwen Chen</title>
-      <link>/authors/fengwen-chen/</link>
-      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/fengwen-chen/</guid>
       <description></description>
     </item>
     
@@ -895,6 +895,30 @@
 
 &lt;p&gt;For Monash students, I can only supervise 1-2 honours/minor thesis students each year. Please see the information about my &lt;a href=&#34;../../post/phd_position&#34;&gt;reserach group in this post&lt;/a&gt; before you apply.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/he-zhang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/he-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/miao-zhang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/miao-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/taihang-dong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/taihang-dong/</guid>
+      <description></description>
     </item>
     
   </channel>

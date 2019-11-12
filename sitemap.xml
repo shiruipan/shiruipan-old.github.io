@@ -98,6 +98,11 @@
   </url>
   
   <url>
+    <loc>/authors/fengwen-chen/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/zonghan-wu/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
@@ -109,11 +114,6 @@
   
   <url>
     <loc>/authors/chengqi-zhang/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/fengwen-chen/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -1889,6 +1889,18 @@
   
   <url>
     <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/he-zhang/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/miao-zhang/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/taihang-dong/</loc>
   </url>
   
   <url>
