@@ -5,12 +5,44 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Data Mining</title>
+      <link>/tags/data-mining/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/data-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Neural Networks</title>
+      <link>/tags/graph-neural-networks/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/graph-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networks</title>
+      <link>/tags/networks/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relational Learning</title>
+      <link>/tags/relational-learning/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/relational-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>android malware</title>
@@ -33,14 +65,6 @@
       <link>/tags/graph-embedding/</link>
       <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/tags/graph-embedding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph Neural Networks</title>
-      <link>/tags/graph-neural-networks/</link>
-      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/graph-neural-networks/</guid>
       <description></description>
     </item>
     
@@ -149,14 +173,6 @@
     </item>
     
     <item>
-      <title>Data mining</title>
-      <link>/tags/data-mining/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/data-mining/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>influence spread</title>
       <link>/tags/influence-spread/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
@@ -189,26 +205,10 @@
     </item>
     
     <item>
-      <title>Networks</title>
-      <link>/tags/networks/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>optimization</title>
       <link>/tags/optimization/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/tags/optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Relational Learning</title>
-      <link>/tags/relational-learning/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/relational-learning/</guid>
       <description></description>
     </item>
     
@@ -421,7 +421,7 @@
     </item>
     
     <item>
-      <title>Nonnegative Matrix Factorization</title>
+      <title>Nonnegative matrix factorization</title>
       <link>/tags/nonnegative-matrix-factorization/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/tags/nonnegative-matrix-factorization/</guid>

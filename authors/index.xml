@@ -5,12 +5,60 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/shichao-zhu/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/shichao-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bin Wang</title>
+      <link>/authors/bin-wang/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/bin-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chuan Zhou</title>
+      <link>/authors/chuan-zhou/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/chuan-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guiying Yan</title>
+      <link>/authors/guiying-yan/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/guiying-yan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lewei Zhou</title>
+      <link>/authors/lewei-zhou/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/lewei-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shirui Pan</title>
+      <link>/authors/shirui-pan/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/shirui-pan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Baodi Ning</title>
@@ -25,14 +73,6 @@
       <link>/authors/ivor-tsang/</link>
       <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/authors/ivor-tsang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shirui Pan</title>
-      <link>/authors/shirui-pan/</link>
-      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/shirui-pan/</guid>
       <description></description>
     </item>
     
@@ -133,22 +173,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/authors/shichao-zhu/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/shichao-zhu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bin Wang</title>
-      <link>/authors/bin-wang/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/bin-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Bo Du</title>
       <link>/authors/bo-du/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
@@ -161,14 +185,6 @@
       <link>/authors/cheng-siong-lee/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/cheng-siong-lee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chuan Zhou</title>
-      <link>/authors/chuan-zhou/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/chuan-zhou/</guid>
       <description></description>
     </item>
     
