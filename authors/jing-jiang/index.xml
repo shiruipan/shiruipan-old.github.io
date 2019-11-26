@@ -5,12 +5,20 @@
     <link>/authors/jing-jiang/</link>
       <atom:link href="/authors/jing-jiang/index.xml" rel="self" type="application/rss+xml" />
     <description>Jing Jiang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Jing Jiang</title>
       <link>/authors/jing-jiang/</link>
     </image>
+    
+    <item>
+      <title>Going Deep: Graph Convolutional Ladder-shape Networks</title>
+      <link>/publication/aaai-2020-hu/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/aaai-2020-hu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning Graph Embedding With Adversarial Training Methods</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heterogeneous Information Networks | Shirui Pan</title>
+    <link>/tags/heterogeneous-information-networks/</link>
+      <atom:link href="/tags/heterogeneous-information-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heterogeneous Information Networks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Heterogeneous Information Networks</title>
+      <link>/tags/heterogeneous-information-networks/</link>
+    </image>
+    
+    <item>
+      <title>Reinforcement Learning based Meta-path Discovery in Large-scale Heterogeneous Information Networks</title>
+      <link>/publication/aaai-2020-wan/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/aaai-2020-wan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
