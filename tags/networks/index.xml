@@ -5,12 +5,20 @@
     <link>/tags/networks/</link>
       <atom:link href="/tags/networks/index.xml" rel="self" type="application/rss+xml" />
     <description>Networks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Networks</title>
       <link>/tags/networks/</link>
     </image>
+    
+    <item>
+      <title>Clustering Social Audiences in Business Information Networks</title>
+      <link>/publication/pr-2019-zheng/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pr-2019-zheng/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GSSNN: Graph Smoothing Splines Neural Networks</title>

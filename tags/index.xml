@@ -5,12 +5,28 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Clustering</title>
+      <link>/tags/clustering/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networks</title>
+      <link>/tags/networks/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data Mining</title>
@@ -25,14 +41,6 @@
       <link>/tags/graph-neural-networks/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/tags/graph-neural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Networks</title>
-      <link>/tags/networks/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/networks/</guid>
       <description></description>
     </item>
     
@@ -73,14 +81,6 @@
       <link>/tags/android-malware/</link>
       <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/tags/android-malware/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clustering</title>
-      <link>/tags/clustering/</link>
-      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/clustering/</guid>
       <description></description>
     </item>
     
