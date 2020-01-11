@@ -5,12 +5,20 @@
     <link>/authors/sai-fu-fung/</link>
       <atom:link href="/authors/sai-fu-fung/index.xml" rel="self" type="application/rss+xml" />
     <description>Sai Fu Fung</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Sai Fu Fung</title>
       <link>/authors/sai-fu-fung/</link>
     </image>
+    
+    <item>
+      <title>Clustering Social Audiences in Business Information Networks</title>
+      <link>/publication/pr-2019-zheng/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/pr-2019-zheng/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning Graph Embedding With Adversarial Training Methods</title>
