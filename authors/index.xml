@@ -5,12 +5,52 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2020 12:15:49 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/man-wu/</link>
+      <pubDate>Fri, 10 Jan 2020 12:15:49 +0000</pubDate>
+      <guid>/authors/man-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chuan Zhou</title>
+      <link>/authors/chuan-zhou/</link>
+      <pubDate>Fri, 10 Jan 2020 12:15:49 +0000</pubDate>
+      <guid>/authors/chuan-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shirui Pan</title>
+      <link>/authors/shirui-pan/</link>
+      <pubDate>Fri, 10 Jan 2020 12:15:49 +0000</pubDate>
+      <guid>/authors/shirui-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaojun Chang</title>
+      <link>/authors/xiaojun-chang/</link>
+      <pubDate>Fri, 10 Jan 2020 12:15:49 +0000</pubDate>
+      <guid>/authors/xiaojun-chang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xingquan Zhu</title>
+      <link>/authors/xingquan-zhu/</link>
+      <pubDate>Fri, 10 Jan 2020 12:15:49 +0000</pubDate>
+      <guid>/authors/xingquan-zhu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -49,14 +89,6 @@
       <link>/authors/bo-du/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/bo-du/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chuan Zhou</title>
-      <link>/authors/chuan-zhou/</link>
-      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/chuan-zhou/</guid>
       <description></description>
     </item>
     
@@ -113,38 +145,6 @@
       <link>/authors/qinghua-lu/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/qinghua-lu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shirui Pan</title>
-      <link>/authors/shirui-pan/</link>
-      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/shirui-pan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/man-wu/</link>
-      <pubDate>Sun, 05 Jan 2020 12:15:49 +0000</pubDate>
-      <guid>/authors/man-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xiaojun Chang</title>
-      <link>/authors/xiaojun-chang/</link>
-      <pubDate>Sun, 05 Jan 2020 12:15:49 +0000</pubDate>
-      <guid>/authors/xiaojun-chang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xingquan Zhu</title>
-      <link>/authors/xingquan-zhu/</link>
-      <pubDate>Sun, 05 Jan 2020 12:15:49 +0000</pubDate>
-      <guid>/authors/xingquan-zhu/</guid>
       <description></description>
     </item>
     

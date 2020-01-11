@@ -3,6 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/authors/man-wu/</loc>
+    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/chuan-zhou/</loc>
+    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/domain-adaptation/</loc>
+    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/graph-neural-networks/</loc>
+    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/shirui-pan/</loc>
+    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/www-2020-wu/</loc>
+    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/xiaojun-chang/</loc>
+    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/xingquan-zhu/</loc>
+    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/guojia-wan/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url>
@@ -18,27 +88,12 @@
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/bin-wang/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/bo-du/</loc>
-    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/chuan-zhou/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -54,11 +109,6 @@
   
   <url>
     <loc>/publication/aaai-2020-hu/</loc>
-    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/graph-neural-networks/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,16 +158,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/qinghua-lu/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url>
@@ -135,46 +175,6 @@
   <url>
     <loc>/tags/relational-learning/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/shirui-pan/</loc>
-    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/man-wu/</loc>
-    <lastmod>2020-01-05T12:15:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/domain-adaptation/</loc>
-    <lastmod>2020-01-05T12:15:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/www-2020-wu/</loc>
-    <lastmod>2020-01-05T12:15:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/xiaojun-chang/</loc>
-    <lastmod>2020-01-05T12:15:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/xingquan-zhu/</loc>
-    <lastmod>2020-01-05T12:15:49+00:00</lastmod>
   </url>
   
   <url>

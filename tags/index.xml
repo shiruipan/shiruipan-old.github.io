@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2020 12:15:49 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Data Mining</title>
-      <link>/tags/data-mining/</link>
-      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/data-mining/</guid>
+      <title>Domain Adaptation</title>
+      <link>/tags/domain-adaptation/</link>
+      <pubDate>Fri, 10 Jan 2020 12:15:49 +0000</pubDate>
+      <guid>/tags/domain-adaptation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graph Neural Networks</title>
       <link>/tags/graph-neural-networks/</link>
-      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Jan 2020 12:15:49 +0000</pubDate>
       <guid>/tags/graph-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Mining</title>
+      <link>/tags/data-mining/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/data-mining/</guid>
       <description></description>
     </item>
     
@@ -65,14 +73,6 @@
       <link>/tags/relational-learning/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/tags/relational-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Domain Adaptation</title>
-      <link>/tags/domain-adaptation/</link>
-      <pubDate>Sun, 05 Jan 2020 12:15:49 +0000</pubDate>
-      <guid>/tags/domain-adaptation/</guid>
       <description></description>
     </item>
     
