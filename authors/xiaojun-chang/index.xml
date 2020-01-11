@@ -5,7 +5,7 @@
     <link>/authors/xiaojun-chang/</link>
       <atom:link href="/authors/xiaojun-chang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaojun Chang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Apr 2020 12:15:49 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2020 12:15:49 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Xiaojun Chang</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Unsupervised Domain Adaptive Graph Convolutional Networks</title>
       <link>/publication/www-2020-wu/</link>
-      <pubDate>Sun, 05 Apr 2020 12:15:49 +0000</pubDate>
+      <pubDate>Sun, 05 Jan 2020 12:15:49 +0000</pubDate>
       <guid>/publication/www-2020-wu/</guid>
       <description></description>
     </item>
