@@ -5,156 +5,12 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>/authors/ruiqi-hu/</link>
-      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/ruiqi-hu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Celina Yu</title>
-      <link>/authors/celina-yu/</link>
-      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/celina-yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Guodong Long</title>
-      <link>/authors/guodong-long/</link>
-      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/guodong-long/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sai Fu Fung</title>
-      <link>/authors/sai-fu-fung/</link>
-      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/sai-fu-fung/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shirui Pan</title>
-      <link>/authors/shirui-pan/</link>
-      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/shirui-pan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ting Guo</title>
-      <link>/authors/ting-guo/</link>
-      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/ting-guo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yu Zheng</title>
-      <link>/authors/yu-zheng/</link>
-      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/yu-zheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/shichao-zhu/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/shichao-zhu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bin Wang</title>
-      <link>/authors/bin-wang/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/bin-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chuan Zhou</title>
-      <link>/authors/chuan-zhou/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/chuan-zhou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Guiying Yan</title>
-      <link>/authors/guiying-yan/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/guiying-yan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lewei Zhou</title>
-      <link>/authors/lewei-zhou/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/lewei-zhou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/guojia-wan/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/guojia-wan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bo Du</title>
-      <link>/authors/bo-du/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/bo-du/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gholamreza Haffari</title>
-      <link>/authors/gholamreza-haffari/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/gholamreza-haffari/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jing Jiang</title>
-      <link>/authors/jing-jiang/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jing-jiang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Liming Zhu</title>
-      <link>/authors/liming-zhu/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/liming-zhu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qinghua Lu</title>
-      <link>/authors/qinghua-lu/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/qinghua-lu/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Baodi Ning</title>
@@ -169,6 +25,14 @@
       <link>/authors/ivor-tsang/</link>
       <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/authors/ivor-tsang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shirui Pan</title>
+      <link>/authors/shirui-pan/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/shirui-pan/</guid>
       <description></description>
     </item>
     
@@ -229,10 +93,26 @@
     </item>
     
     <item>
+      <title>Guodong Long</title>
+      <link>/authors/guodong-long/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/guodong-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Philip S Yu</title>
       <link>/authors/philip-s-yu/</link>
       <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/philip-s-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/guojia-wan/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/guojia-wan/</guid>
       <description></description>
     </item>
     
@@ -245,10 +125,50 @@
     </item>
     
     <item>
+      <title></title>
+      <link>/authors/ruiqi-hu/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ruiqi-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/shichao-zhu/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/shichao-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bin Wang</title>
+      <link>/authors/bin-wang/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/bin-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bo Du</title>
+      <link>/authors/bo-du/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/bo-du/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cheng Siong Lee</title>
       <link>/authors/cheng-siong-lee/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/cheng-siong-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chuan Zhou</title>
+      <link>/authors/chuan-zhou/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/chuan-zhou/</guid>
       <description></description>
     </item>
     
@@ -265,6 +185,14 @@
       <link>/authors/jia-wu/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/jia-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jing Jiang</title>
+      <link>/authors/jing-jiang/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jing-jiang/</guid>
       <description></description>
     </item>
     
@@ -289,6 +217,14 @@
       <link>/authors/lei-pan/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/lei-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sai Fu Fung</title>
+      <link>/authors/sai-fu-fung/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/sai-fu-fung/</guid>
       <description></description>
     </item>
     
@@ -473,6 +409,14 @@
       <link>/authors/tianqing-zhu/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/authors/tianqing-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ting Guo</title>
+      <link>/authors/ting-guo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ting-guo/</guid>
       <description></description>
     </item>
     
@@ -793,6 +737,14 @@
       <link>/authors/yew-soon-ong/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/authors/yew-soon-ong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yu Zheng</title>
+      <link>/authors/yu-zheng/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/yu-zheng/</guid>
       <description></description>
     </item>
     

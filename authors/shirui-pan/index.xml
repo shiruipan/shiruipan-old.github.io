@@ -5,44 +5,12 @@
     <link>/authors/shirui-pan/</link>
       <atom:link href="/authors/shirui-pan/index.xml" rel="self" type="application/rss+xml" />
     <description>Shirui Pan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Shirui Pan</title>
       <link>/authors/shirui-pan/</link>
     </image>
-    
-    <item>
-      <title>Clustering Social Audiences in Business Information Networks</title>
-      <link>/publication/pr-2019-zheng/</link>
-      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/pr-2019-zheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GSSNN: Graph Smoothing Splines Neural Networks</title>
-      <link>/publication/aaai-2020-zhu/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/aaai-2020-zhu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning based Meta-path Discovery in Large-scale Heterogeneous Information Networks</title>
-      <link>/publication/aaai-2020-wan/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/aaai-2020-wan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Going Deep: Graph Convolutional Ladder-shape Networks</title>
-      <link>/publication/aaai-2020-hu/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/aaai-2020-hu/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Familial Clustering For Weakly-labeled Android Malware Using Hybrid Representation Learning</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaojun Chang | Shirui Pan</title>
+    <link>/authors/xiaojun-chang/</link>
+      <atom:link href="/authors/xiaojun-chang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaojun Chang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Apr 2020 12:15:49 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Xiaojun Chang</title>
+      <link>/authors/xiaojun-chang/</link>
+    </image>
+    
+    <item>
+      <title>Unsupervised Domain Adaptive Graph Convolutional Networks</title>
+      <link>/publication/www-2020-wu/</link>
+      <pubDate>Sun, 05 Apr 2020 12:15:49 +0000</pubDate>
+      <guid>/publication/www-2020-wu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

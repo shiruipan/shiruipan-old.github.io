@@ -5,76 +5,12 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
-    
-    <item>
-      <title>Clustering</title>
-      <link>/tags/clustering/</link>
-      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/clustering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Networks</title>
-      <link>/tags/networks/</link>
-      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Mining</title>
-      <link>/tags/data-mining/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/data-mining/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph Neural Networks</title>
-      <link>/tags/graph-neural-networks/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/graph-neural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Relational Learning</title>
-      <link>/tags/relational-learning/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/relational-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heterogeneous Information Networks</title>
-      <link>/tags/heterogeneous-information-networks/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/heterogeneous-information-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Knowledge Graphs</title>
-      <link>/tags/knowledge-graphs/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/knowledge-graphs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning</title>
-      <link>/tags/reinforcement-learning/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/reinforcement-learning/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>android malware</title>
@@ -85,10 +21,26 @@
     </item>
     
     <item>
+      <title>Clustering</title>
+      <link>/tags/clustering/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>graph embedding</title>
       <link>/tags/graph-embedding/</link>
       <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/tags/graph-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Neural Networks</title>
+      <link>/tags/graph-neural-networks/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/graph-neural-networks/</guid>
       <description></description>
     </item>
     
@@ -197,6 +149,14 @@
     </item>
     
     <item>
+      <title>Data mining</title>
+      <link>/tags/data-mining/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/data-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>influence spread</title>
       <link>/tags/influence-spread/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
@@ -229,10 +189,26 @@
     </item>
     
     <item>
+      <title>Networks</title>
+      <link>/tags/networks/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>optimization</title>
       <link>/tags/optimization/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relational Learning</title>
+      <link>/tags/relational-learning/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/relational-learning/</guid>
       <description></description>
     </item>
     
