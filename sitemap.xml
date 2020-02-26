@@ -3,17 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/man-wu/</loc>
-    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
+    <loc>/authors/miao-zhang/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/automl/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/huiqi-li/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/neural-architecture-search/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cvpr-2020-zhang/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/shirui-pan/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/steven-su/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/xiaojun-chang/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/man-wu/</loc>
     <lastmod>2020-01-10T12:15:49+00:00</lastmod>
   </url>
   
@@ -33,37 +98,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/shirui-pan/</loc>
-    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/www-2020-wu/</loc>
-    <lastmod>2020-01-10T12:15:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/xiaojun-chang/</loc>
     <lastmod>2020-01-10T12:15:49+00:00</lastmod>
   </url>
   
@@ -599,11 +634,6 @@
   
   <url>
     <loc>/tags/couplings/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/deep-learning/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1973,10 +2003,6 @@
   
   <url>
     <loc>/authors/he-zhang/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/miao-zhang/</loc>
   </url>
   
   <url>

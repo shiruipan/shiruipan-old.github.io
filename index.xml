@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Shirui Pan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2020 12:15:49 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Shirui Pan</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Overcoming Multi-Model Forgetting in One-Shot NAS with Diversity Maximization</title>
+      <link>/publication/cvpr-2020-zhang/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/cvpr-2020-zhang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Unsupervised Domain Adaptive Graph Convolutional Networks</title>
