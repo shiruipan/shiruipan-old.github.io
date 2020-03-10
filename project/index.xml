@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Shirui Pan</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shiruipan.github.io/project/</link>
+      <atom:link href="https://shiruipan.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://shiruipan.github.io/project/</link>
     </image>
     
     <item>
       <title>Graph Classification</title>
-      <link>/project/graph-classification-task/</link>
+      <link>https://shiruipan.github.io/project/graph-classification-task/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/project/graph-classification-task/</guid>
+      <guid>https://shiruipan.github.io/project/graph-classification-task/</guid>
       <description>&lt;p&gt;Recent years have witnessed an increasing number of applications involving objects with structural relationships, including chemical compounds in Bioinformatics, brain networks, image structures, and academic citation networks. For these applications, graph is a natural and powerful tool for modeling and capturing dependency relationships between objects.&lt;/p&gt;
 
 &lt;p&gt;Unlike conventional data, where each instance is represented in a feature-value vector format, graphs exhibit node–edge structural relationships and have no natural vector representation. This challenge has motivated many graph classification algorithms in recent years. Given a set of training graphs, each associated with a class label, graph classification aims to learn a model from the training graphs to predict the unseen graphs in future. The following picture shows the difference betweeb classification on vector data and graph data.&lt;/p&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>Broadlink AI System and Smart Air-Conditioner</title>
-      <link>/project/smart-home/</link>
+      <link>https://shiruipan.github.io/project/smart-home/</link>
       <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>/project/smart-home/</guid>
+      <guid>https://shiruipan.github.io/project/smart-home/</guid>
       <description>&lt;p&gt;This project aims to design an artificially intelligent system for a Chinese company, Broadlink, to predict user behaviors of using air-conditioners. Key tasks include:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -42,9 +42,9 @@
     
     <item>
       <title>Network Embedding</title>
-      <link>/project/effective-network-embedding/</link>
+      <link>https://shiruipan.github.io/project/effective-network-embedding/</link>
       <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>/project/effective-network-embedding/</guid>
+      <guid>https://shiruipan.github.io/project/effective-network-embedding/</guid>
       <description>
 
 &lt;p&gt;Information network mining often requires examination of linkage relationships between nodes for analysis. Recently, network representation has emerged to represent each node in a vector format, embedding network structure, so off-the-shelf machine learning methods can be directly applied for analysis. We have proposed a number of algorithms to address this problem, including:&lt;/p&gt;
@@ -112,9 +112,9 @@
     
     <item>
       <title>Deep Structure Learning for Cyberbullying Detection on Social Networks</title>
-      <link>/project/cyberbullying/</link>
+      <link>https://shiruipan.github.io/project/cyberbullying/</link>
       <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/cyberbullying/</guid>
+      <guid>https://shiruipan.github.io/project/cyberbullying/</guid>
       <description>&lt;p&gt;This project aims to build a deep structure learning system to detect cyberbullying on social networks to improve the e-safety for children and young people. Detailed research topics include a deep node representation model, a deep-signed link prediction approach, and a multi-task cyberbullying detection algorithm. The outcomes will not only lay the theoretical foundations for building intelligent systems on social networks by integrating multiple view information such as user profiles, network structures, and text messages, but could be also used by public sectors to detect cyberbullying, thus improving e-safety for children.&lt;/p&gt;
 </description>
     </item>

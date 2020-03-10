@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matrix factorization | Shirui Pan</title>
-    <link>/tags/matrix-factorization/</link>
-      <atom:link href="/tags/matrix-factorization/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shiruipan.github.io/tags/matrix-factorization/</link>
+      <atom:link href="https://shiruipan.github.io/tags/matrix-factorization/index.xml" rel="self" type="application/rss+xml" />
     <description>Matrix factorization</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Matrix factorization</title>
-      <link>/tags/matrix-factorization/</link>
+      <link>https://shiruipan.github.io/tags/matrix-factorization/</link>
     </image>
     
     <item>
       <title>Classifying networked text data with positive and unlabeled examples</title>
-      <link>/publication/li-classifying-2016/</link>
+      <link>https://shiruipan.github.io/publication/li-classifying-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/li-classifying-2016/</guid>
+      <guid>https://shiruipan.github.io/publication/li-classifying-2016/</guid>
       <description></description>
     </item>
     

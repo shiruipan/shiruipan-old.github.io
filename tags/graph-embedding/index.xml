@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>graph embedding | Shirui Pan</title>
-    <link>/tags/graph-embedding/</link>
-      <atom:link href="/tags/graph-embedding/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shiruipan.github.io/tags/graph-embedding/</link>
+      <atom:link href="https://shiruipan.github.io/tags/graph-embedding/index.xml" rel="self" type="application/rss+xml" />
     <description>graph embedding</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>graph embedding</title>
-      <link>/tags/graph-embedding/</link>
+      <link>https://shiruipan.github.io/tags/graph-embedding/</link>
     </image>
     
     <item>
       <title>Familial Clustering For Weakly-labeled Android Malware Using Hybrid Representation Learning</title>
-      <link>/publication/zhang-2019-tifs/</link>
+      <link>https://shiruipan.github.io/publication/zhang-2019-tifs/</link>
       <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/zhang-2019-tifs/</guid>
+      <guid>https://shiruipan.github.io/publication/zhang-2019-tifs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive knowledge subgraph ensemble for robust and trustworthy knowledge graph completion</title>
-      <link>/publication/wwwj-2019-wan/</link>
+      <link>https://shiruipan.github.io/publication/wwwj-2019-wan/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/wwwj-2019-wan/</guid>
+      <guid>https://shiruipan.github.io/publication/wwwj-2019-wan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Graph Embedding With Adversarial Training Methods</title>
-      <link>/publication/tcyb-2019-pan/</link>
+      <link>https://shiruipan.github.io/publication/tcyb-2019-pan/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/tcyb-2019-pan/</guid>
+      <guid>https://shiruipan.github.io/publication/tcyb-2019-pan/</guid>
       <description></description>
     </item>
     

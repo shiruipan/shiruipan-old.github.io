@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neural Architecture Search | Shirui Pan</title>
-    <link>/tags/neural-architecture-search/</link>
-      <atom:link href="/tags/neural-architecture-search/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shiruipan.github.io/tags/neural-architecture-search/</link>
+      <atom:link href="https://shiruipan.github.io/tags/neural-architecture-search/index.xml" rel="self" type="application/rss+xml" />
     <description>Neural Architecture Search</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Neural Architecture Search</title>
-      <link>/tags/neural-architecture-search/</link>
+      <link>https://shiruipan.github.io/tags/neural-architecture-search/</link>
     </image>
     
     <item>
       <title>Overcoming Multi-Model Forgetting in One-Shot NAS with Diversity Maximization</title>
-      <link>/publication/cvpr-2020-zhang/</link>
+      <link>https://shiruipan.github.io/publication/cvpr-2020-zhang/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/cvpr-2020-zhang/</guid>
+      <guid>https://shiruipan.github.io/publication/cvpr-2020-zhang/</guid>
       <description></description>
     </item>
     

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Relational Learning | Shirui Pan</title>
-    <link>/tags/relational-learning/</link>
-      <atom:link href="/tags/relational-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shiruipan.github.io/tags/relational-learning/</link>
+      <atom:link href="https://shiruipan.github.io/tags/relational-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Relational Learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Relational Learning</title>
-      <link>/tags/relational-learning/</link>
+      <link>https://shiruipan.github.io/tags/relational-learning/</link>
     </image>
     
     <item>
       <title>Going Deep: Graph Convolutional Ladder-shape Networks</title>
-      <link>/publication/aaai-2020-hu/</link>
+      <link>https://shiruipan.github.io/publication/aaai-2020-hu/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/aaai-2020-hu/</guid>
+      <guid>https://shiruipan.github.io/publication/aaai-2020-hu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GSSNN: Graph Smoothing Splines Neural Networks</title>
-      <link>/publication/aaai-2020-zhu/</link>
+      <link>https://shiruipan.github.io/publication/aaai-2020-zhu/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/aaai-2020-zhu/</guid>
+      <guid>https://shiruipan.github.io/publication/aaai-2020-zhu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reinforcement Learning based Meta-path Discovery in Large-scale Heterogeneous Information Networks</title>
-      <link>/publication/aaai-2020-wan/</link>
+      <link>https://shiruipan.github.io/publication/aaai-2020-wan/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/aaai-2020-wan/</guid>
+      <guid>https://shiruipan.github.io/publication/aaai-2020-wan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graph WaveNet for Deep Spatial-Temporal Graph Modeling</title>
-      <link>/publication/ijcai-2019-wu/</link>
+      <link>https://shiruipan.github.io/publication/ijcai-2019-wu/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ijcai-2019-wu/</guid>
+      <guid>https://shiruipan.github.io/publication/ijcai-2019-wu/</guid>
       <description></description>
     </item>
     

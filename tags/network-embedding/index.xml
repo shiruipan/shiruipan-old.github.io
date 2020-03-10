@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>network-embedding | Shirui Pan</title>
-    <link>/tags/network-embedding/</link>
-      <atom:link href="/tags/network-embedding/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shiruipan.github.io/tags/network-embedding/</link>
+      <atom:link href="https://shiruipan.github.io/tags/network-embedding/index.xml" rel="self" type="application/rss+xml" />
     <description>network-embedding</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>network-embedding</title>
-      <link>/tags/network-embedding/</link>
+      <link>https://shiruipan.github.io/tags/network-embedding/</link>
     </image>
     
     <item>
       <title>FraudNE: a joint embedding approach for fraud detection</title>
-      <link>/publication/zheng-fraudne-2018/</link>
+      <link>https://shiruipan.github.io/publication/zheng-fraudne-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/zheng-fraudne-2018/</guid>
+      <guid>https://shiruipan.github.io/publication/zheng-fraudne-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heterogeneous information network embedding based personalized query-focused astronomy reference paper recommendation</title>
-      <link>/publication/cai-heterogeneous-2018/</link>
+      <link>https://shiruipan.github.io/publication/cai-heterogeneous-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/cai-heterogeneous-2018/</guid>
+      <guid>https://shiruipan.github.io/publication/cai-heterogeneous-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network Embedding</title>
-      <link>/project/effective-network-embedding/</link>
+      <link>https://shiruipan.github.io/project/effective-network-embedding/</link>
       <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>/project/effective-network-embedding/</guid>
+      <guid>https://shiruipan.github.io/project/effective-network-embedding/</guid>
       <description>
 
 &lt;p&gt;Information network mining often requires examination of linkage relationships between nodes for analysis. Recently, network representation has emerged to represent each node in a vector format, embedding network structure, so off-the-shelf machine learning methods can be directly applied for analysis. We have proposed a number of algorithms to address this problem, including:&lt;/p&gt;

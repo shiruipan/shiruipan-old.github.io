@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evolutionary machine learning | Shirui Pan</title>
-    <link>/tags/evolutionary-machine-learning/</link>
-      <atom:link href="/tags/evolutionary-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shiruipan.github.io/tags/evolutionary-machine-learning/</link>
+      <atom:link href="https://shiruipan.github.io/tags/evolutionary-machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Evolutionary machine learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Evolutionary machine learning</title>
-      <link>/tags/evolutionary-machine-learning/</link>
+      <link>https://shiruipan.github.io/tags/evolutionary-machine-learning/</link>
     </image>
     
     <item>
       <title>SODE: Self-adaptive one-dependence estimators for classification</title>
-      <link>/publication/wu-sode-2016/</link>
+      <link>https://shiruipan.github.io/publication/wu-sode-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/wu-sode-2016/</guid>
+      <guid>https://shiruipan.github.io/publication/wu-sode-2016/</guid>
       <description></description>
     </item>
     

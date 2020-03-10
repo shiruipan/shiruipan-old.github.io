@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Physics | Shirui Pan</title>
-    <link>/tags/physics/</link>
-      <atom:link href="/tags/physics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shiruipan.github.io/tags/physics/</link>
+      <atom:link href="https://shiruipan.github.io/tags/physics/index.xml" rel="self" type="application/rss+xml" />
     <description>Physics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Physics</title>
-      <link>/tags/physics/</link>
+      <link>https://shiruipan.github.io/tags/physics/</link>
     </image>
     
     <item>
       <title>Social recommendation with evolutionary opinion dynamics</title>
-      <link>/publication/xiong-social-2019/</link>
+      <link>https://shiruipan.github.io/publication/xiong-social-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/xiong-social-2019/</guid>
+      <guid>https://shiruipan.github.io/publication/xiong-social-2019/</guid>
       <description></description>
     </item>
     

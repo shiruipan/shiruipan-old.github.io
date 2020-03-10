@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Shirui Pan</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shiruipan.github.io/post/</link>
+      <atom:link href="https://shiruipan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://shiruipan.github.io/post/</link>
     </image>
     
     <item>
       <title>Full Publication</title>
-      <link>/post/fullpublication/</link>
+      <link>https://shiruipan.github.io/post/fullpublication/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/post/fullpublication/</guid>
+      <guid>https://shiruipan.github.io/post/fullpublication/</guid>
       <description>&lt;script src=&#34;https://bibbase.org/service/mendeley/845d9803-ef10-3e54-8e7e-4386f4630c87?jsonp=1&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     
     <item>
       <title>PhD/Visitor Positions</title>
-      <link>/post/phd_position/</link>
+      <link>https://shiruipan.github.io/post/phd_position/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/post/phd_position/</guid>
+      <guid>https://shiruipan.github.io/post/phd_position/</guid>
       <description>
 
 &lt;p&gt;I am looking for self-motivated Ph.D students funded by: (1) &lt;a href=&#39;https://www.monash.edu/graduate-research/future-students/scholarships&#39;&gt; Monash Scholarships&lt;/a&gt;, and (2)&lt;a href=&#34;https://www.monash.edu/graduate-research/future-students/scholarships/china-scholarship-council&#34;&gt; China Scholarship Council (CSC)&lt;/a&gt;.&lt;/p&gt;

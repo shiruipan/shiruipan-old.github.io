@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gholamreza Haffari | Shirui Pan</title>
-    <link>/authors/gholamreza-haffari/</link>
-      <atom:link href="/authors/gholamreza-haffari/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shiruipan.github.io/authors/gholamreza-haffari/</link>
+      <atom:link href="https://shiruipan.github.io/authors/gholamreza-haffari/index.xml" rel="self" type="application/rss+xml" />
     <description>Gholamreza Haffari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Gholamreza Haffari</title>
-      <link>/authors/gholamreza-haffari/</link>
+      <link>https://shiruipan.github.io/authors/gholamreza-haffari/</link>
     </image>
     
     <item>
       <title>Reinforcement Learning based Meta-path Discovery in Large-scale Heterogeneous Information Networks</title>
-      <link>/publication/aaai-2020-wan/</link>
+      <link>https://shiruipan.github.io/publication/aaai-2020-wan/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/aaai-2020-wan/</guid>
+      <guid>https://shiruipan.github.io/publication/aaai-2020-wan/</guid>
       <description></description>
     </item>
     
