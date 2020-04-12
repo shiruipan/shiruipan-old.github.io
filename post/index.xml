@@ -123,5 +123,64 @@ This research group mainly focuses on data mining, machine learning, NLP, deep l
 </description>
     </item>
     
+    <item>
+      <title>Special Issue on Graph Powered Machine Learning</title>
+      <link>https://shiruipan.github.io/post/si_graphml/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/post/si_graphml/</guid>
+      <description>
+
+&lt;h3 id=&#34;journal&#34;&gt;Journal&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bit.ly/GraphML-FGCS&#34; target=&#34;_blank&#34;&gt;Future-Generation Computing Systems&lt;/a&gt; (&lt;span style=&#34;color:red&#34;&gt; &lt;b&gt;IF 5.768, CORE A&lt;/b&gt;&lt;/span&gt;).&lt;/p&gt;
+
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;Recent years have witnessed a dramatic increase of graph applications due to advancements in information and communication technologies. In a variety of applications, such as social networks, communication networks, internet of things (IOTs), and human disease networks, graph data contains rich information and exhibits diverse characteristics. Specifically, graph data may come with the node or edge attributes showing the property of an entity or a connection, arise with signed or unsigned edges indicating the positive or negative relationships, form homogenous or heterogeneous information networks modeling different scenarios and settings. Furthermore, in these applications, the graph data is evolving and expanding more and more dynamically. The diverse, dynamic, and large-scale nature of graph data requires different data mining techniques and advanced machine learning methods. Meanwhile, the computing system evolves rapidly and becomes large-scale, collaborative and distributed, with many computing principles proposed such as cloud computing, edge computing and federated learning. Learning from big graph data in future-generation computing systems considers the effectiveness of graph learning, scalability of large-scale computing, privacy preserving under the federated computing setting with multi-source graphs, and graph dynamics in the distributed environment. Today’s researchers have realized that novel graph learning theory, big graph specific platforms, and advanced graph processing techniques are needed. Therefore, a set of research topics such as distributed graph computing, graph stream learning, and graph embedding techniques have emerged, and applications such as graph-based anomaly detection, social recommendation, social influence analytics are becoming important issues for the research community.&lt;/p&gt;
+
+&lt;h3 id=&#34;topics&#34;&gt;Topics&lt;/h3&gt;
+
+&lt;p&gt;We are seeking contributions on the advanced data mining and machine learning methods and applications for &lt;span style=&#34;color:red&#34;&gt; &lt;b&gt; graph machine learning &lt;/b&gt;&lt;/span&gt; and &lt;span style=&#34;color:red&#34;&gt;&lt;b&gt; knowledge graph mining &lt;/b&gt;&lt;/span&gt;  in future generation computing systems. The topics of interest include, but are not limited to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Feature Selection for Graph Data&lt;/li&gt;
+&lt;li&gt;Distributed Computing on Big Graphs&lt;/li&gt;
+&lt;li&gt;Dynamic and Streaming Graph Learning&lt;/li&gt;
+&lt;li&gt;Graph Classification, Clustering, Link Prediction Tasks&lt;/li&gt;
+&lt;li&gt;Graph Embedding&lt;/li&gt;
+&lt;li&gt;Learning from Unattributed/Attributed Networks&lt;/li&gt;
+&lt;li&gt;Learning from Unsigned/Signed Networks&lt;/li&gt;
+&lt;li&gt;Learning from Homogenous/Heterogeneous Information Networks&lt;/li&gt;
+&lt;li&gt;Anomaly Detection in Graph Data&lt;/li&gt;
+&lt;li&gt;Sentiment Analysis&lt;/li&gt;
+&lt;li&gt;Cyberbullying Detection in Social Networks&lt;/li&gt;
+&lt;li&gt;Deep Learning for Graphs&lt;/li&gt;
+&lt;li&gt;Graph Based Machine Learning&lt;/li&gt;
+&lt;li&gt;Relational Data Analytics&lt;/li&gt;
+&lt;li&gt;Social Recommendation&lt;/li&gt;
+&lt;li&gt;Knowledge graph representation learning&lt;/li&gt;
+&lt;li&gt;Reasoning over large-scale knowledge bases&lt;/li&gt;
+&lt;li&gt;Temporal knowledge graphs&lt;/li&gt;
+&lt;li&gt;Federated learning with distributed knowledge graphs&lt;/li&gt;
+&lt;li&gt;Social computing&lt;/li&gt;
+&lt;li&gt;Applications of big graph learning&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;deadline&#34;&gt;Deadline&lt;/h3&gt;
+
+&lt;p&gt;July 15, 2020&lt;/p&gt;
+
+&lt;h3 id=&#34;full-cfp&#34;&gt;Full CFP&lt;/h3&gt;
+
+&lt;p&gt;A pdf version CFP is availabel &lt;a href=&#34;../../post/CFP_GraphML_FGCS.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;key-references&#34;&gt;Key References&lt;/h3&gt;
+
+&lt;p&gt;1 A Survey on Knowledge Graphs: Representation, Acquisition and Applications. S Ji, S Pan, E Cambria, P Marttinen, PS Yu. arXiv preprint arXiv:2002.00388, 2020.&lt;/p&gt;
+
+&lt;p&gt;2 A comprehensive survey on graph neural networks. Z Wu, S Pan, F Chen, G Long, C Zhang, PS Yu. IEEE Transactions on Neural Networks and Learning Systems, 2020.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
