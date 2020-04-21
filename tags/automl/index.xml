@@ -5,12 +5,28 @@
     <link>https://shiruipan.github.io/tags/automl/</link>
       <atom:link href="https://shiruipan.github.io/tags/automl/index.xml" rel="self" type="application/rss+xml" />
     <description>AutoML</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>AutoML</title>
       <link>https://shiruipan.github.io/tags/automl/</link>
     </image>
+    
+    <item>
+      <title>A Relation-Specific Attention Network for Joint Entity and Relation Extraction</title>
+      <link>https://shiruipan.github.io/publication/ijcai-2020-yuan/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-2020-yuan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-Shot Neural Architecture Search via Novelty Driven Sampling</title>
+      <link>https://shiruipan.github.io/publication/ijcai-2020-zhang/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-2020-zhang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Overcoming Multi-Model Forgetting in One-Shot NAS with Diversity Maximization</title>
