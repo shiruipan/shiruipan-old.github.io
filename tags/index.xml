@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/tags/</link>
       <atom:link href="https://shiruipan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://shiruipan.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Graph Neural Networks</title>
+      <link>https://shiruipan.github.io/tags/graph-neural-networks/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/tags/graph-neural-networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AutoML</title>
@@ -57,14 +65,6 @@
       <link>https://shiruipan.github.io/tags/relational-learning/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/tags/relational-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph Neural Networks</title>
-      <link>https://shiruipan.github.io/tags/graph-neural-networks/</link>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/tags/graph-neural-networks/</guid>
       <description></description>
     </item>
     
