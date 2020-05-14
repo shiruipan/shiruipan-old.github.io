@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Multi-Graph-View | Shirui Pan</title>
+    <title>Multi-graph-view | Shirui Pan</title>
     <link>https://shiruipan.github.io/tags/multi-graph-view/</link>
       <atom:link href="https://shiruipan.github.io/tags/multi-graph-view/index.xml" rel="self" type="application/rss+xml" />
-    <description>Multi-Graph-View</description>
+    <description>Multi-graph-view</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
-      <title>Multi-Graph-View</title>
+      <title>Multi-graph-view</title>
       <link>https://shiruipan.github.io/tags/multi-graph-view/</link>
     </image>
     
