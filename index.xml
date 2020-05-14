@@ -244,7 +244,7 @@ This research group mainly focuses on data mining, machine learning, NLP, deep l
 
 &lt;h3 id=&#34;topics&#34;&gt;Topics&lt;/h3&gt;
 
-&lt;p&gt;We are seeking contributions on the advanced data mining and machine learning methods and applications for &lt;span style=&#34;color:red&#34;&gt; &lt;b&gt; graph machine learning &lt;/b&gt;&lt;/span&gt; and &lt;span style=&#34;color:red&#34;&gt;&lt;b&gt; knowledge graph mining &lt;/b&gt;&lt;/span&gt;  in future generation computing systems. The topics of interest include, but are not limited to:&lt;/p&gt;
+&lt;p&gt;We are seeking contributions on the advanced data mining and machine learning methods and applications for &lt;span style=&#34;color:red&#34;&gt; &lt;b&gt; graph machine learning &lt;/b&gt;&lt;/span&gt; in future generation computing systems. The topics of interest include, but are not limited to:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Feature Selection for Graph Data&lt;/li&gt;
@@ -277,6 +277,86 @@ This research group mainly focuses on data mining, machine learning, NLP, deep l
 &lt;h3 id=&#34;full-cfp&#34;&gt;Full CFP&lt;/h3&gt;
 
 &lt;p&gt;A pdf version CFP is availabel &lt;a href=&#34;../../post/CFP_GraphML_FGCS.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;key-references&#34;&gt;Key References&lt;/h3&gt;
+
+&lt;p&gt;1 A Survey on Knowledge Graphs: Representation, Acquisition and Applications. S Ji, S Pan, E Cambria, P Marttinen, PS Yu. arXiv preprint arXiv:2002.00388, 2020.&lt;/p&gt;
+
+&lt;p&gt;2 A comprehensive survey on graph neural networks. Z Wu, S Pan, F Chen, G Long, C Zhang, PS Yu. IEEE Transactions on Neural Networks and Learning Systems, 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Special Issue on Knowledge Graph Representation and Reasoning</title>
+      <link>https://shiruipan.github.io/post/si_kg/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/post/si_kg/</guid>
+      <description>
+
+&lt;h3 id=&#34;journal&#34;&gt;Journal&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.journals.elsevier.com/neurocomputing&#34; target=&#34;_blank&#34;&gt;Neurocomputing&lt;/a&gt; (&lt;span style=&#34;color:red&#34;&gt; &lt;b&gt;IF 4.072&lt;/b&gt;&lt;/span&gt;).&lt;/p&gt;
+
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;Recent years have witnessed the release of many open-source and enterprise-driven knowledge
+graphs with a dramatic increase of applications of knowledge representation and reasoning in
+fields such as natural language processing, computer vision, and bioinformatics. With those
+large-scale knowledge graphs, recent research tends to incorporate human knowledge and
+imitate human’s ability of relational reasoning. Factual knowledge stored in knowledge bases
+or knowledge graphs can be utilized as a source for logical reasoning and, hence, be integrated
+to improve real-world applications.&lt;/p&gt;
+
+&lt;p&gt;Emerging embedding-based methods for knowledge graph representation have shown their
+ability to capture relational facts and model different scenarios with heterogenous information.
+By combining symbolic reasoning methods or Bayesian models, deep representation learning
+techniques on knowledge graphs attempt to handle complex reasoning with relational path and
+symbolic logic and capture the uncertainty with probabilistic inference. Furthermore, efficient
+representation learning and reasoning can be one of the paths towards the emulation of highlevel cognition and human-level intelligence. Knowledge graphs can also be seen as a means
+to tackle the problem of explainability in AI. These trends naturally facilitate relevant
+downstream applications which inject structural knowledge into wide-applied neural
+architectures such as attention-based transformers and graph neural networks.&lt;/p&gt;
+
+&lt;p&gt;This special issue focuses on emerging techniques and trendy applications of knowledge graph
+representation learning and reasoning in fields such as natural language processing, computer
+vision, bioinformatics, and more.&lt;/p&gt;
+
+&lt;h3 id=&#34;topics&#34;&gt;Topics&lt;/h3&gt;
+
+&lt;p&gt;We are seeking contributions on the advanced data mining and machine learning methods and applications for &lt;span style=&#34;color:red&#34;&gt; &lt;b&gt; graph machine learning &lt;/b&gt;&lt;/span&gt; in future generation computing systems. The topics of interest include, but are not limited to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Representation learning on knowledge graphs&lt;/li&gt;
+&lt;li&gt;Representation learning on text data&lt;/li&gt;
+&lt;li&gt;Logical rule mining and symbolic reasoning&lt;/li&gt;
+&lt;li&gt;Knowledge graph completion and link prediction&lt;/li&gt;
+&lt;li&gt;Relation extraction&lt;/li&gt;
+&lt;li&gt;Community embeddings&lt;/li&gt;
+&lt;li&gt;Knowledge representation and reasoning over large-scale knowledge graphs&lt;/li&gt;
+&lt;li&gt;Hybrid methods with symbolic and non-symbolic representation and reasoning&lt;/li&gt;
+&lt;li&gt;Automatic knowledge graph construction&lt;/li&gt;
+&lt;li&gt;Domain specific knowledge graphs, e.g., medical knowledge graphs&lt;/li&gt;
+&lt;li&gt;Knowledge dynamics of temporal knowledge graphs&lt;/li&gt;
+&lt;li&gt;Time-evolving knowledge representation learning&lt;/li&gt;
+&lt;li&gt;Question answering and dialogue systems with knowledge graphs&lt;/li&gt;
+&lt;li&gt;Knowledge-injected sentiment analysis&lt;/li&gt;
+&lt;li&gt;Commonsense knowledge representation and reasoning&lt;/li&gt;
+&lt;li&gt;Knowledge graphs for neural machine translation&lt;/li&gt;
+&lt;li&gt;Knowledge-aware recommendation systems&lt;/li&gt;
+&lt;li&gt;Knowledge graphs for digital health, e.g., mental healthcare and medical diagnosis&lt;/li&gt;
+&lt;li&gt;Few-shot relational learning on knowledge graphs&lt;/li&gt;
+&lt;li&gt;Federated learning with multi-source knowledge graphs in the decentralized setting&lt;/li&gt;
+&lt;li&gt;Graph representation learning for structured data&lt;/li&gt;
+&lt;li&gt;Explainable artificial intelligence with knowledge-aware models&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;deadline&#34;&gt;Deadline&lt;/h3&gt;
+
+&lt;p&gt;Aug 31, 2020&lt;/p&gt;
+
+&lt;h3 id=&#34;full-cfp&#34;&gt;Full CFP&lt;/h3&gt;
+
+&lt;p&gt;A pdf version CFP is availabel &lt;a href=&#34;../../post/CFP_KG_NEUCOM.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;key-references&#34;&gt;Key References&lt;/h3&gt;
 
