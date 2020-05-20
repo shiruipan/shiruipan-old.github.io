@@ -5,7 +5,7 @@
     <link>https://shiruipan.github.io/tags/</link>
       <atom:link href="https://shiruipan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 12:15:49 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Graph Neural Networks</title>
       <link>https://shiruipan.github.io/tags/graph-neural-networks/</link>
-      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
       <guid>https://shiruipan.github.io/tags/graph-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series</title>
+      <link>https://shiruipan.github.io/tags/time-series/</link>
+      <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
+      <guid>https://shiruipan.github.io/tags/time-series/</guid>
       <description></description>
     </item>
     
@@ -545,14 +553,6 @@
       <link>https://shiruipan.github.io/tags/text-mining/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/tags/text-mining/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Time series</title>
-      <link>https://shiruipan.github.io/tags/time-series/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/tags/time-series/</guid>
       <description></description>
     </item>
     

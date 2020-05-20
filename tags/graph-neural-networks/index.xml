@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/tags/graph-neural-networks/</link>
       <atom:link href="https://shiruipan.github.io/tags/graph-neural-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>Graph Neural Networks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 12:15:49 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Graph Neural Networks</title>
       <link>https://shiruipan.github.io/tags/graph-neural-networks/</link>
     </image>
+    
+    <item>
+      <title>Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks</title>
+      <link>https://shiruipan.github.io/publication/kdd-2020-wu/</link>
+      <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/kdd-2020-wu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hyperspectral Image Classification with Context-aware Dynamic Graph Convolutional Networks</title>
