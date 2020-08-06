@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuo Yu | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/shuo-yu/</link>
+      <atom:link href="https://shiruipan.github.io/authors/shuo-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shuo Yu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 12:15:49 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
+      <title>Shuo Yu</title>
+      <link>https://shiruipan.github.io/authors/shuo-yu/</link>
+    </image>
+    
+    <item>
+      <title>Multivariate Relations Aggregation Learning in Social Networks</title>
+      <link>https://shiruipan.github.io/publication/jcdl-2020-xu/</link>
+      <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/jcdl-2020-xu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
