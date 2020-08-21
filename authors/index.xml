@@ -5,12 +5,76 @@
     <link>https://shiruipan.github.io/authors/</link>
       <atom:link href="https://shiruipan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 12:15:49 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://shiruipan.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>https://shiruipan.github.io/authors/chun-wang/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/chun-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://shiruipan.github.io/authors/man-wu/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/man-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bo Han</title>
+      <link>https://shiruipan.github.io/authors/bo-han/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/bo-han/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gang Niu</title>
+      <link>https://shiruipan.github.io/authors/gang-niu/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/gang-niu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guodong Long</title>
+      <link>https://shiruipan.github.io/authors/guodong-long/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/guodong-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jing Jiang</title>
+      <link>https://shiruipan.github.io/authors/jing-jiang/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/jing-jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shirui Pan</title>
+      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xingquan Zhu</title>
+      <link>https://shiruipan.github.io/authors/xingquan-zhu/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/xingquan-zhu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -33,14 +97,6 @@
       <link>https://shiruipan.github.io/authors/feng-xia/</link>
       <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/feng-xia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Guodong Long</title>
-      <link>https://shiruipan.github.io/authors/guodong-long/</link>
-      <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/guodong-long/</guid>
       <description></description>
     </item>
     
@@ -69,14 +125,6 @@
     </item>
     
     <item>
-      <title>Jing Jiang</title>
-      <link>https://shiruipan.github.io/authors/jing-jiang/</link>
-      <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/jing-jiang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jing Ren</title>
       <link>https://shiruipan.github.io/authors/jing-ren/</link>
       <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
@@ -97,14 +145,6 @@
       <link>https://shiruipan.github.io/authors/lina-yao/</link>
       <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/lina-yao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shirui Pan</title>
-      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
-      <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
       <description></description>
     </item>
     
@@ -313,22 +353,6 @@
       <link>https://shiruipan.github.io/authors/pekka-marttinen/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/pekka-marttinen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://shiruipan.github.io/authors/man-wu/</link>
-      <pubDate>Fri, 10 Jan 2020 12:15:49 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/man-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xingquan Zhu</title>
-      <link>https://shiruipan.github.io/authors/xingquan-zhu/</link>
-      <pubDate>Fri, 10 Jan 2020 12:15:49 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/xingquan-zhu/</guid>
       <description></description>
     </item>
     
@@ -569,14 +593,6 @@
       <link>https://shiruipan.github.io/authors/zheng-yan/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/zheng-yan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://shiruipan.github.io/authors/chun-wang/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/chun-wang/</guid>
       <description></description>
     </item>
     

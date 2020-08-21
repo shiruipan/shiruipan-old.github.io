@@ -5,12 +5,28 @@
     <link>https://shiruipan.github.io/authors/shirui-pan/</link>
       <atom:link href="https://shiruipan.github.io/authors/shirui-pan/index.xml" rel="self" type="application/rss+xml" />
     <description>Shirui Pan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 12:15:49 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Shirui Pan</title>
       <link>https://shiruipan.github.io/authors/shirui-pan/</link>
     </image>
+    
+    <item>
+      <title>Cross-Graph: Robust and Unsupervised Embedding for Attributed Graphs with Corrupted Structure</title>
+      <link>https://shiruipan.github.io/publication/icdm-20-wang/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-20-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OWGL: Open-World Graph Learning</title>
+      <link>https://shiruipan.github.io/publication/icdm-20-wu/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-20-wu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks</title>
