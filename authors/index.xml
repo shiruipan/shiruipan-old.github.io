@@ -5,12 +5,60 @@
     <link>https://shiruipan.github.io/authors/</link>
       <atom:link href="https://shiruipan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://shiruipan.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>https://shiruipan.github.io/authors/shaoxiong-ji/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/shaoxiong-ji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erik Cambria</title>
+      <link>https://shiruipan.github.io/authors/erik-cambria/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/erik-cambria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guodong Long</title>
+      <link>https://shiruipan.github.io/authors/guodong-long/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/guodong-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shirui Pan</title>
+      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xue Li</title>
+      <link>https://shiruipan.github.io/authors/xue-li/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/xue-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zi Huang</title>
+      <link>https://shiruipan.github.io/authors/zi-huang/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/zi-huang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -45,26 +93,10 @@
     </item>
     
     <item>
-      <title>Guodong Long</title>
-      <link>https://shiruipan.github.io/authors/guodong-long/</link>
-      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/guodong-long/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jing Jiang</title>
       <link>https://shiruipan.github.io/authors/jing-jiang/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/jing-jiang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shirui Pan</title>
-      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
-      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
       <description></description>
     </item>
     
@@ -329,22 +361,6 @@
       <link>https://shiruipan.github.io/authors/philip-s-yu/</link>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/philip-s-yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://shiruipan.github.io/authors/shaoxiong-ji/</link>
-      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/shaoxiong-ji/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Erik Cambria</title>
-      <link>https://shiruipan.github.io/authors/erik-cambria/</link>
-      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/erik-cambria/</guid>
       <description></description>
     </item>
     
@@ -1121,14 +1137,6 @@
       <link>https://shiruipan.github.io/authors/bi-wu/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/bi-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xue Li</title>
-      <link>https://shiruipan.github.io/authors/xue-li/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/xue-li/</guid>
       <description></description>
     </item>
     

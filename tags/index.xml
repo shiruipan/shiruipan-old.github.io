@@ -5,12 +5,28 @@
     <link>https://shiruipan.github.io/tags/</link>
       <atom:link href="https://shiruipan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://shiruipan.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://shiruipan.github.io/tags/machine-learning/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suicidal Ideation Detection</title>
+      <link>https://shiruipan.github.io/tags/suicidal-ideation-detection/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/tags/suicidal-ideation-detection/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Graph Neural Networks</title>
@@ -265,14 +281,6 @@
       <link>https://shiruipan.github.io/tags/influence-spread/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/tags/influence-spread/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://shiruipan.github.io/tags/machine-learning/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     

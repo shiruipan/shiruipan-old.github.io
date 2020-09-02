@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/publication_types/2/</link>
       <atom:link href="https://shiruipan.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://shiruipan.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Suicidal Ideation Detection: A Review of Machine Learning Methods and Applications</title>
+      <link>https://shiruipan.github.io/publication/ji-2020-tccs/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ji-2020-tccs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hyperspectral Image Classification with Context-aware Dynamic Graph Convolutional Networks</title>
