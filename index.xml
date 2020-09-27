@@ -5,12 +5,36 @@
     <link>https://shiruipan.github.io/</link>
       <atom:link href="https://shiruipan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shirui Pan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Shirui Pan</title>
       <link>https://shiruipan.github.io/</link>
     </image>
+    
+    <item>
+      <title>Differentiable Neural Architecture Search in Equivalent Space with Exploration Enhancement</title>
+      <link>https://shiruipan.github.io/publication/neurips-20-zhang/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-20-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Geometry Interaction Learning</title>
+      <link>https://shiruipan.github.io/publication/neurips-20-zhu/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-20-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Stochastic Neural Networks for Semi-supervised Learning</title>
+      <link>https://shiruipan.github.io/publication/neurips-20-wang/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-20-wang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Suicidal Ideation Detection: A Review of Machine Learning Methods and Applications</title>
