@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/steven-su/</link>
       <atom:link href="https://shiruipan.github.io/authors/steven-su/index.xml" rel="self" type="application/rss+xml" />
     <description>Steven Su</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Steven Su</title>
       <link>https://shiruipan.github.io/authors/steven-su/</link>
     </image>
+    
+    <item>
+      <title>One-Shot Neural Architecture Search: Maximising Diversity to Overcome Catastrophic Forgetting</title>
+      <link>https://shiruipan.github.io/publication/tpami-20-zhang/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tpami-20-zhang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Differentiable Neural Architecture Search in Equivalent Space with Exploration Enhancement</title>
