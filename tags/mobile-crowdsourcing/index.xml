@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile Crowdsourcing | Shirui Pan</title>
+    <link>/tags/mobile-crowdsourcing/</link>
+      <atom:link href="/tags/mobile-crowdsourcing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mobile Crowdsourcing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Mobile Crowdsourcing</title>
+      <link>/tags/mobile-crowdsourcing/</link>
+    </image>
+    
+    <item>
+      <title>Compact Scheduling for Task Graph Oriented Mobile Crowdsourcing</title>
+      <link>/publication/tmc-20-wang/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/tmc-20-wang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
