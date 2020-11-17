@@ -5,12 +5,68 @@
     <link>https://shiruipan.github.io/authors/</link>
       <atom:link href="https://shiruipan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://shiruipan.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Daqing Zhang</title>
+      <link>https://shiruipan.github.io/authors/daqing-zhang/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/daqing-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dingqi Yang</title>
+      <link>https://shiruipan.github.io/authors/dingqi-yang/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/dingqi-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liang Wang</title>
+      <link>https://shiruipan.github.io/authors/liang-wang/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/liang-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qi Han</title>
+      <link>https://shiruipan.github.io/authors/qi-han/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/qi-han/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shirui Pan</title>
+      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuan Yao</title>
+      <link>https://shiruipan.github.io/authors/yuan-yao/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/yuan-yao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhiwen Yu</title>
+      <link>https://shiruipan.github.io/authors/zhiwen-yu/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/zhiwen-yu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -33,14 +89,6 @@
       <link>https://shiruipan.github.io/authors/huiqi-li/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/huiqi-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shirui Pan</title>
-      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
-      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
       <description></description>
     </item>
     
@@ -653,22 +701,6 @@
     </item>
     
     <item>
-      <title>Dingqi Yang</title>
-      <link>https://shiruipan.github.io/authors/dingqi-yang/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/dingqi-yang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Liang Wang</title>
-      <link>https://shiruipan.github.io/authors/liang-wang/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/liang-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ling Chen</title>
       <link>https://shiruipan.github.io/authors/ling-chen/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
@@ -681,14 +713,6 @@
       <link>https://shiruipan.github.io/authors/peng-zhang/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/peng-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhiwen Yu</title>
-      <link>https://shiruipan.github.io/authors/zhiwen-yu/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/zhiwen-yu/</guid>
       <description></description>
     </item>
     

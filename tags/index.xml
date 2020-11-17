@@ -5,12 +5,36 @@
     <link>https://shiruipan.github.io/tags/</link>
       <atom:link href="https://shiruipan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://shiruipan.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Directed Acyclic Graph</title>
+      <link>https://shiruipan.github.io/tags/directed-acyclic-graph/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/tags/directed-acyclic-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Crowdsourcing</title>
+      <link>https://shiruipan.github.io/tags/mobile-crowdsourcing/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/tags/mobile-crowdsourcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task Schedule</title>
+      <link>https://shiruipan.github.io/tags/task-schedule/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/tags/task-schedule/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Neural Architecture Search</title>
