@@ -5,12 +5,44 @@
     <link>https://shiruipan.github.io/authors/</link>
       <atom:link href="https://shiruipan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://shiruipan.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>https://shiruipan.github.io/authors/man-wu/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/man-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lan Du</title>
+      <link>https://shiruipan.github.io/authors/lan-du/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/lan-du/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shirui Pan</title>
+      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xingquan Zhu</title>
+      <link>https://shiruipan.github.io/authors/xingquan-zhu/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/xingquan-zhu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chen Gong</title>
@@ -33,14 +65,6 @@
       <link>https://shiruipan.github.io/authors/sheng-wan/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/sheng-wan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shirui Pan</title>
-      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
       <description></description>
     </item>
     
@@ -245,14 +269,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://shiruipan.github.io/authors/man-wu/</link>
-      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/man-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Bo Han</title>
       <link>https://shiruipan.github.io/authors/bo-han/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
@@ -273,14 +289,6 @@
       <link>https://shiruipan.github.io/authors/jing-jiang/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/jing-jiang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xingquan Zhu</title>
-      <link>https://shiruipan.github.io/authors/xingquan-zhu/</link>
-      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/xingquan-zhu/</guid>
       <description></description>
     </item>
     
@@ -625,14 +633,6 @@
       <link>https://shiruipan.github.io/authors/jionghao-lin/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/jionghao-lin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lan Du</title>
-      <link>https://shiruipan.github.io/authors/lan-du/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/lan-du/</guid>
       <description></description>
     </item>
     

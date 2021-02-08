@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/tags/positive-unlabeled-learning/</link>
       <atom:link href="https://shiruipan.github.io/tags/positive-unlabeled-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Positive unlabeled learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Positive unlabeled learning</title>
       <link>https://shiruipan.github.io/tags/positive-unlabeled-learning/</link>
     </image>
+    
+    <item>
+      <title>Learning Graph Neural Networks with Positive and Unlabeled Nodes</title>
+      <link>https://shiruipan.github.io/publication/tkdd-21-wu/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tkdd-21-wu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamic classifier ensemble for positive unlabeled text stream classification</title>
