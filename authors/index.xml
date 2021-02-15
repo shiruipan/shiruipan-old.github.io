@@ -5,12 +5,60 @@
     <link>https://shiruipan.github.io/authors/</link>
       <atom:link href="https://shiruipan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://shiruipan.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>https://shiruipan.github.io/authors/miao-zhang/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/miao-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huiqi Li</title>
+      <link>https://shiruipan.github.io/authors/huiqi-li/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/huiqi-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Lyu</title>
+      <link>https://shiruipan.github.io/authors/juan-lyu/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/juan-lyu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shirui Pan</title>
+      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steve Ling</title>
+      <link>https://shiruipan.github.io/authors/steve-ling/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/steve-ling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steven Su</title>
+      <link>https://shiruipan.github.io/authors/steven-su/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/steven-su/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -25,14 +73,6 @@
       <link>https://shiruipan.github.io/authors/lan-du/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/lan-du/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shirui Pan</title>
-      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
-      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
       <description></description>
     </item>
     
@@ -117,34 +157,10 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://shiruipan.github.io/authors/miao-zhang/</link>
-      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/miao-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Chuan Zhou</title>
       <link>https://shiruipan.github.io/authors/chuan-zhou/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/chuan-zhou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Huiqi Li</title>
-      <link>https://shiruipan.github.io/authors/huiqi-li/</link>
-      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/huiqi-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Steven Su</title>
-      <link>https://shiruipan.github.io/authors/steven-su/</link>
-      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/steven-su/</guid>
       <description></description>
     </item>
     
