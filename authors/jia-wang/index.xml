@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jia Wang | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/jia-wang/</link>
+      <atom:link href="https://shiruipan.github.io/authors/jia-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jia Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Jan 2021 12:15:49 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/img/icon-192.png</url>
+      <title>Jia Wang</title>
+      <link>https://shiruipan.github.io/authors/jia-wang/</link>
+    </image>
+    
+    <item>
+      <title>Task-adaptive Neural Process for User Cold-Start Recommendation</title>
+      <link>https://shiruipan.github.io/publication/www-2021-lin/</link>
+      <pubDate>Mon, 11 Jan 2021 12:15:49 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-2021-lin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

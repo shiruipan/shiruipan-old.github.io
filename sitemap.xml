@@ -48,12 +48,12 @@
   </url>
   
   <url>
-    <loc>https://shiruipan.github.io/</loc>
+    <loc>https://shiruipan.github.io/authors/shirui-pan/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiruipan.github.io/authors/shirui-pan/</loc>
+    <loc>https://shiruipan.github.io/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -104,7 +104,42 @@
   
   <url>
     <loc>https://shiruipan.github.io/publication_types/1/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-11T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/bin-wang/</loc>
+    <lastmod>2021-01-11T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/chuan-zhou/</loc>
+    <lastmod>2021-01-11T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/jia-wang/</loc>
+    <lastmod>2021-01-11T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/tags/recommender-systems/</loc>
+    <lastmod>2021-01-11T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/publication/www-2021-lin/</loc>
+    <lastmod>2021-01-11T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/xixun-lin/</loc>
+    <lastmod>2021-01-11T12:15:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/yanan-cao/</loc>
+    <lastmod>2021-01-11T12:15:49+00:00</lastmod>
   </url>
   
   <url>
@@ -183,11 +218,6 @@
   </url>
   
   <url>
-    <loc>https://shiruipan.github.io/authors/chuan-zhou/</loc>
-    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://shiruipan.github.io/tags/neural-architecture-search/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
   </url>
@@ -209,11 +239,6 @@
   
   <url>
     <loc>https://shiruipan.github.io/authors/shichao-zhu/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/authors/bin-wang/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -249,11 +274,6 @@
   
   <url>
     <loc>https://shiruipan.github.io/authors/xin-chen/</loc>
-    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/authors/yanan-cao/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -824,11 +844,6 @@
   
   <url>
     <loc>https://shiruipan.github.io/tags/information-propagation/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/tags/recommender-systems/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -2322,7 +2337,23 @@
   </url>
   
   <url>
+    <loc>https://shiruipan.github.io/authors/bang-wu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/dongwon-ryu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/guangsi-shi/</loc>
+  </url>
+  
+  <url>
     <loc>https://shiruipan.github.io/authors/he-zhang/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/ming-jin/</loc>
   </url>
   
   <url>

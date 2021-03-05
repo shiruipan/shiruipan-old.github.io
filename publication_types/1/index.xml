@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/publication_types/1/</link>
       <atom:link href="https://shiruipan.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Jan 2021 12:15:49 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>1</title>
       <link>https://shiruipan.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Task-adaptive Neural Process for User Cold-Start Recommendation</title>
+      <link>https://shiruipan.github.io/publication/www-2021-lin/</link>
+      <pubDate>Mon, 11 Jan 2021 12:15:49 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-2021-lin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contrastive and Generative Graph Convolutional Networks for Graph-based Semi-Supervised Learning</title>
