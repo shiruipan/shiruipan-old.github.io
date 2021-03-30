@@ -5,7 +5,7 @@
     <link>https://shiruipan.github.io/authors/shaoxiong-ji/</link>
       <atom:link href="https://shiruipan.github.io/authors/shaoxiong-ji/index.xml" rel="self" type="application/rss+xml" />
     <description>Shirui Pan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Shirui Pan</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Suicidal Ideation Detection: A Review of Machine Learning Methods and Applications</title>
-      <link>https://shiruipan.github.io/publication/ji-2020-tccs/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/ji-2020-tccs/</guid>
+      <title>A Survey on Knowledge Graphs: Representation, Acquisition and Applications</title>
+      <link>https://shiruipan.github.io/publication/tnnls-21-ji/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-21-ji/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Survey on Knowledge Graphs: Representation, Acquisition and Applications</title>
-      <link>https://shiruipan.github.io/publication/ji-2020-kg/</link>
-      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/ji-2020-kg/</guid>
+      <title>Suicidal Ideation Detection: A Review of Machine Learning Methods and Applications</title>
+      <link>https://shiruipan.github.io/publication/ji-2020-tccs/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ji-2020-tccs/</guid>
       <description></description>
     </item>
     

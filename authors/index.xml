@@ -5,12 +5,52 @@
     <link>https://shiruipan.github.io/authors/</link>
       <atom:link href="https://shiruipan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://shiruipan.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>https://shiruipan.github.io/authors/shaoxiong-ji/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/shaoxiong-ji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erik Cambria</title>
+      <link>https://shiruipan.github.io/authors/erik-cambria/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/erik-cambria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pekka Marttinen</title>
+      <link>https://shiruipan.github.io/authors/pekka-marttinen/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/pekka-marttinen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philip S Yu</title>
+      <link>https://shiruipan.github.io/authors/philip-s-yu/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/philip-s-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shirui Pan</title>
+      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Abdul Aziz</title>
@@ -49,14 +89,6 @@
       <link>https://shiruipan.github.io/authors/liangtian-wan/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/liangtian-wan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shirui Pan</title>
-      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
-      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
       <description></description>
     </item>
     
@@ -317,22 +349,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://shiruipan.github.io/authors/shaoxiong-ji/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/shaoxiong-ji/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Erik Cambria</title>
-      <link>https://shiruipan.github.io/authors/erik-cambria/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/erik-cambria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Guodong Long</title>
       <link>https://shiruipan.github.io/authors/guodong-long/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
@@ -537,22 +553,6 @@
       <link>https://shiruipan.github.io/authors/fengwen-chen/</link>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/fengwen-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Philip S Yu</title>
-      <link>https://shiruipan.github.io/authors/philip-s-yu/</link>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/philip-s-yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pekka Marttinen</title>
-      <link>https://shiruipan.github.io/authors/pekka-marttinen/</link>
-      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/pekka-marttinen/</guid>
       <description></description>
     </item>
     
