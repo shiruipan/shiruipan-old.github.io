@@ -5,12 +5,68 @@
     <link>https://shiruipan.github.io/authors/</link>
       <atom:link href="https://shiruipan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://shiruipan.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Abdul Aziz</title>
+      <link>https://shiruipan.github.io/authors/abdul-aziz/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/abdul-aziz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feng Xia</title>
+      <link>https://shiruipan.github.io/authors/feng-xia/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/feng-xia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huan Liu</title>
+      <link>https://shiruipan.github.io/authors/huan-liu/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/huan-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ke Sun</title>
+      <link>https://shiruipan.github.io/authors/ke-sun/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/ke-sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liangtian Wan</title>
+      <link>https://shiruipan.github.io/authors/liangtian-wan/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/liangtian-wan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shirui Pan</title>
+      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shuo Yu</title>
+      <link>https://shiruipan.github.io/authors/shuo-yu/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/shuo-yu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -41,14 +97,6 @@
       <link>https://shiruipan.github.io/authors/george-karypis/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/george-karypis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shirui Pan</title>
-      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
-      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
       <description></description>
     </item>
     
@@ -357,14 +405,6 @@
     </item>
     
     <item>
-      <title>Feng Xia</title>
-      <link>https://shiruipan.github.io/authors/feng-xia/</link>
-      <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/feng-xia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Huaxiang Zhang</title>
       <link>https://shiruipan.github.io/authors/huaxiang-zhang/</link>
       <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
@@ -397,26 +437,10 @@
     </item>
     
     <item>
-      <title>Ke Sun</title>
-      <link>https://shiruipan.github.io/authors/ke-sun/</link>
-      <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/ke-sun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lina Yao</title>
       <link>https://shiruipan.github.io/authors/lina-yao/</link>
       <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/lina-yao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shuo Yu</title>
-      <link>https://shiruipan.github.io/authors/shuo-yu/</link>
-      <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/shuo-yu/</guid>
       <description></description>
     </item>
     
@@ -1273,7 +1297,7 @@
       <link>https://shiruipan.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Shirui Pan is a Lecturer (a.k.a. Assistant Professor) with the &lt;a href=&#34;https://www.monash.edu/it/our-research/strengths/data-science/machine-learning&#34; target=&#34;_blank&#34;&gt;Machine Learning Group&lt;/a&gt;, &lt;a href=&#34;https://www.monash.edu/it&#34; target=&#34;_blank&#34;&gt;Faculty of Information Technology&lt;/a&gt;, &lt;a href=&#34;https://www.monash.edu/&#34; target=&#34;_blank&#34;&gt;Monash University&lt;/a&gt;. Prior to this, he was a Lecturer with the &lt;a href = &#34;https://www.uts.edu.au/research-and-teaching/our-research/centre-artificial-intelligence&#34;&gt; Centre for Artificial Intelligence (CAI)&lt;/a&gt;, School of Software, &lt;a href=&#34;https://www.uts.edu.au/about/faculty-engineering-and-information-technology&#34;&gt; Faculty of Engineering and Information Technology&lt;/a&gt;,  &lt;a href = &#34;https://uts.edu.au&#34;&gt; University of Technology Sydney(UTS)&lt;/a&gt;. Shirui received his Ph.D degree in computer science from UTS, Australia. His research interests include data mining and machine learning, specialized in graph mining and network analysis.&lt;/p&gt;
+      <description>&lt;p&gt;Shirui Pan is a Senior Lecturer (&lt;a href=&#34;https://en.wikipedia.org/wiki/Senior_lecturer&#34; target=&#34;_blank&#34;&gt;equiv.&lt;/a&gt;  Associate Professor in US, effective on 03/07/2021) with the &lt;a href=&#34;https://www.monash.edu/it/dsai&#34; target=&#34;_blank&#34;&gt;Department of Data Science &amp;amp; AI&lt;/a&gt;, &lt;a href=&#34;https://www.monash.edu/it&#34; target=&#34;_blank&#34;&gt;Faculty of Information Technology&lt;/a&gt;, &lt;a href=&#34;https://www.monash.edu/&#34; target=&#34;_blank&#34;&gt;Monash University&lt;/a&gt;. Prior to this, he was a Lecturer with the &lt;a href = &#34;https://www.uts.edu.au/research-and-teaching/our-research/centre-artificial-intelligence&#34;&gt; Centre for Artificial Intelligence (CAI)&lt;/a&gt;, School of Software, &lt;a href=&#34;https://www.uts.edu.au/about/faculty-engineering-and-information-technology&#34;&gt; Faculty of Engineering and Information Technology&lt;/a&gt;,  &lt;a href = &#34;https://uts.edu.au&#34;&gt; University of Technology Sydney(UTS)&lt;/a&gt;. Shirui received his Ph.D degree in computer science from UTS, Australia. His research interests include data mining and machine learning, specialized in graph mining and network analysis.&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;b&gt; I am looking for self-motivated Ph.D students. Applicants in Australia are especially welcome.  See more information &lt;a href=&#34;../../post/phd_position&#34;&gt;here&lt;/a&gt;. &lt;/b&gt; &lt;/span&gt;&lt;/p&gt;
 

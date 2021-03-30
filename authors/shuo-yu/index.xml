@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/shuo-yu/</link>
       <atom:link href="https://shiruipan.github.io/authors/shuo-yu/index.xml" rel="self" type="application/rss+xml" />
     <description>Shuo Yu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 12:15:49 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Shuo Yu</title>
       <link>https://shiruipan.github.io/authors/shuo-yu/</link>
     </image>
+    
+    <item>
+      <title>Graph Learning: A Survey</title>
+      <link>https://shiruipan.github.io/publication/tai-21-xia/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tai-21-xia/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multivariate Relations Aggregation Learning in Social Networks</title>
