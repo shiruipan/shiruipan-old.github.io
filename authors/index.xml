@@ -5,7 +5,7 @@
     <link>https://shiruipan.github.io/authors/</link>
       <atom:link href="https://shiruipan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -14,9 +14,129 @@
     
     <item>
       <title></title>
+      <link>https://shiruipan.github.io/authors/miao-zhang/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/miao-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ehsan Abbasnejad</title>
+      <link>https://shiruipan.github.io/authors/ehsan-abbasnejad/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/ehsan-abbasnejad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gholamreza Haffari</title>
+      <link>https://shiruipan.github.io/authors/gholamreza-haffari/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/gholamreza-haffari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shirui Pan</title>
+      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steven Su</title>
+      <link>https://shiruipan.github.io/authors/steven-su/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/steven-su/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaojun Chang</title>
+      <link>https://shiruipan.github.io/authors/xiaojun-chang/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/xiaojun-chang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://shiruipan.github.io/authors/shaoxiong-ji/</link>
-      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/shaoxiong-ji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pekka Marttinen</title>
+      <link>https://shiruipan.github.io/authors/pekka-marttinen/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/pekka-marttinen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://shiruipan.github.io/authors/ming-jin/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/ming-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chen Gong</title>
+      <link>https://shiruipan.github.io/authors/chen-gong/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/chen-gong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chuan Zhou</title>
+      <link>https://shiruipan.github.io/authors/chuan-zhou/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/chuan-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yizhen Zheng</title>
+      <link>https://shiruipan.github.io/authors/yizhen-zheng/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/yizhen-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuan-Fang Li</title>
+      <link>https://shiruipan.github.io/authors/yuan-fang-li/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/yuan-fang-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jian Yang</title>
+      <link>https://shiruipan.github.io/authors/jian-yang/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/jian-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ping Zhong</title>
+      <link>https://shiruipan.github.io/authors/ping-zhong/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/ping-zhong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sheng Wan</title>
+      <link>https://shiruipan.github.io/authors/sheng-wan/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/sheng-wan/</guid>
       <description></description>
     </item>
     
@@ -29,26 +149,10 @@
     </item>
     
     <item>
-      <title>Pekka Marttinen</title>
-      <link>https://shiruipan.github.io/authors/pekka-marttinen/</link>
-      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/pekka-marttinen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Philip S Yu</title>
       <link>https://shiruipan.github.io/authors/philip-s-yu/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/philip-s-yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shirui Pan</title>
-      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
-      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
       <description></description>
     </item>
     
@@ -109,22 +213,6 @@
     </item>
     
     <item>
-      <title>Chen Gong</title>
-      <link>https://shiruipan.github.io/authors/chen-gong/</link>
-      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/chen-gong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chuan Zhou</title>
-      <link>https://shiruipan.github.io/authors/chuan-zhou/</link>
-      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/chuan-zhou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>George Karypis</title>
       <link>https://shiruipan.github.io/authors/george-karypis/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
@@ -137,14 +225,6 @@
       <link>https://shiruipan.github.io/authors/zhao-li/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/zhao-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://shiruipan.github.io/authors/miao-zhang/</link>
-      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/miao-zhang/</guid>
       <description></description>
     </item>
     
@@ -169,14 +249,6 @@
       <link>https://shiruipan.github.io/authors/steve-ling/</link>
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/steve-ling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Steven Su</title>
-      <link>https://shiruipan.github.io/authors/steven-su/</link>
-      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/steven-su/</guid>
       <description></description>
     </item>
     
@@ -237,22 +309,6 @@
     </item>
     
     <item>
-      <title>Jian Yang</title>
-      <link>https://shiruipan.github.io/authors/jian-yang/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/jian-yang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sheng Wan</title>
-      <link>https://shiruipan.github.io/authors/sheng-wan/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/sheng-wan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Daqing Zhang</title>
       <link>https://shiruipan.github.io/authors/daqing-zhang/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
@@ -297,14 +353,6 @@
       <link>https://shiruipan.github.io/authors/zhiwen-yu/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/zhiwen-yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xiaojun Chang</title>
-      <link>https://shiruipan.github.io/authors/xiaojun-chang/</link>
-      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/xiaojun-chang/</guid>
       <description></description>
     </item>
     
@@ -477,26 +525,10 @@
     </item>
     
     <item>
-      <title>Ping Zhong</title>
-      <link>https://shiruipan.github.io/authors/ping-zhong/</link>
-      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/ping-zhong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://shiruipan.github.io/authors/guojia-wan/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/guojia-wan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gholamreza Haffari</title>
-      <link>https://shiruipan.github.io/authors/gholamreza-haffari/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/gholamreza-haffari/</guid>
       <description></description>
     </item>
     
@@ -1334,14 +1366,6 @@
       <link>https://shiruipan.github.io/authors/he-zhang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/he-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://shiruipan.github.io/authors/ming-jin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/ming-jin/</guid>
       <description></description>
     </item>
     

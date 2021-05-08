@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/publication_types/2/</link>
       <atom:link href="https://shiruipan.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://shiruipan.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Dual Interactive Graph Convolutional Networks for Hyperspectral Image Classification</title>
+      <link>https://shiruipan.github.io/publication/tgrs-2021-wan/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tgrs-2021-wan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Survey on Knowledge Graphs: Representation, Acquisition and Applications</title>
