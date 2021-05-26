@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/tags/</link>
       <atom:link href="https://shiruipan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://shiruipan.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Graph Neural Networks</title>
+      <link>https://shiruipan.github.io/tags/graph-neural-networks/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/tags/graph-neural-networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Neural Architecture Search</title>
@@ -25,14 +33,6 @@
       <link>https://shiruipan.github.io/tags/medical-code-assignment/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/tags/medical-code-assignment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph Neural Networks</title>
-      <link>https://shiruipan.github.io/tags/graph-neural-networks/</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/tags/graph-neural-networks/</guid>
       <description></description>
     </item>
     
