@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yizhen Zheng | Shirui Pan</title>
+    <title>Shirui Pan</title>
     <link>https://shiruipan.github.io/authors/yizhen-zheng/</link>
       <atom:link href="https://shiruipan.github.io/authors/yizhen-zheng/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yizhen Zheng</description>
+    <description>Shirui Pan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
-      <title>Yizhen Zheng</title>
+      <title>Shirui Pan</title>
       <link>https://shiruipan.github.io/authors/yizhen-zheng/</link>
     </image>
     
@@ -17,6 +17,14 @@
       <link>https://shiruipan.github.io/publication/ijcai-2021-jin/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/publication/ijcai-2021-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous Graph Attention Network for Small and Medium-Sized Enterprises Bankruptcy Prediction</title>
+      <link>https://shiruipan.github.io/publication/pakdd-21-zheng/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pakdd-21-zheng/</guid>
       <description></description>
     </item>
     
