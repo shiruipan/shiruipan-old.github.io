@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/tags/graph-neural-networks/</link>
       <atom:link href="https://shiruipan.github.io/tags/graph-neural-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>Graph Neural Networks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jun 2021 12:15:49 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Graph Neural Networks</title>
       <link>https://shiruipan.github.io/tags/graph-neural-networks/</link>
     </image>
+    
+    <item>
+      <title>OpenWGL: Open-World Graph Learning for Unseen Class Node Classification</title>
+      <link>https://shiruipan.github.io/publication/kais-wu-21/</link>
+      <pubDate>Fri, 11 Jun 2021 12:15:49 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/kais-wu-21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Temporal Network Embedding for Link Prediction via VAE joint Attention Mechanism</title>

@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Differentiable ARchiTecture Search(DARTS) has recently become the mainstream in the neural architecture search (NAS) due to its efficiency and simplicity. With a gradient-based bi-level optimization, DARTS alternately optimizes the inner model weights and the outer architecture parameter in a weight-sharing supernet. A key challenge to the scalability and quality of the learned architectures is the need for differentiating through the inner-loop optimisation. While much has been discussed about several potentially fatal factors in DARTS, the architecture gradient, a.k.a. hypergradient, has received less attention. In this paper, we tackle the hypergradient computation in DARTS based on the implicit function theorem, making it only depends on the obtained solution to the inner-loop optimization and agnostic to the optimization path. To further reduce the computational requirements, we formulate a stochastic hypergradient approximation for differentiable NAS, and theoretically show that the architecture optimization with the proposed method is expected to converge to a stationary point. Comprehensive experiments on two NAS benchmark search spaces and the common NAS search space verify the effectiveness of our proposed method. It leads to architectures outperforming, with large margins, those learned by the baseline methods.">
+  <meta name="description" content="Graph learning, such as node classification, is typically carried out in a closed-world setting. A number of nodes are labeled, and the learning goal is to correctly classify remaining (unlabeled) nodes into classes, represented by the labeled nodes. In reality, due to limited labeling capability or dynamic evolving nature of networks, some nodes in the networks may not belong to any existing/seen classes, and therefore cannot be correctly classified by closed-world learning algorithms. In this paper, we propose a new open-world graph learning paradigm, where the learning goal is to correctly classy nodes belonging to labeled classes into correct categories, and also classify nodes not belonging to labeled classes to an unseen class. Open-world graph learning has three major challenges: (1) graphs do not have features to represent nodes for learning; (2) unseen class nodes do not have labels, and may exist in an arbitrary form different from labeled classes; and (3) graph learning should differentiate whether a node  belong to an existing/seen class or an unseen class. To tackle the challenges, we propose an uncertain node representation learning principle to use multiple versions of node feature representation to test a classifier&#39;s response on a node, through which we can differentiate whether a node belongs to the unseen class. Technical wise, we propose constrained variational graph autoencoder, using label loss and class uncertainty loss constraints, to ensure that node representation learning is sensitive to the unseen class. As a result, node embedding features are denoted by distributions, instead of deterministic feature vectors. In order to test the certainty of a node belonging to seen classes, a sampling process is proposed to generate multiple versions of feature vectors to represent each node, using automatic thresholding to reject nodes not belonging to seen classes as unseen class nodes. Experiments, using graph convolutional networks and graph attention networks on four real-world networks, demonstrate the algorithm performance. Case studies and ablation analysis also show the advantage of the uncertain representation learning and automatic threshold selection for open-world graph learning. ">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://shiruipan.github.io/publication/icml-2021-zhang/">
+  <link rel="alternate" hreflang="en-us" href="https://shiruipan.github.io/publication/kais-wu-21/">
 
   
 
@@ -92,7 +92,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://shiruipan.github.io/publication/icml-2021-zhang/">
+  <link rel="canonical" href="https://shiruipan.github.io/publication/kais-wu-21/">
 
   
   
@@ -105,15 +105,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Shirui Pan">
-  <meta property="og:url" content="https://shiruipan.github.io/publication/icml-2021-zhang/">
-  <meta property="og:title" content="iDARTS: Differentiable Architecture Search with Stochastic Implicit Gradients | Shirui Pan">
-  <meta property="og:description" content="Differentiable ARchiTecture Search(DARTS) has recently become the mainstream in the neural architecture search (NAS) due to its efficiency and simplicity. With a gradient-based bi-level optimization, DARTS alternately optimizes the inner model weights and the outer architecture parameter in a weight-sharing supernet. A key challenge to the scalability and quality of the learned architectures is the need for differentiating through the inner-loop optimisation. While much has been discussed about several potentially fatal factors in DARTS, the architecture gradient, a.k.a. hypergradient, has received less attention. In this paper, we tackle the hypergradient computation in DARTS based on the implicit function theorem, making it only depends on the obtained solution to the inner-loop optimization and agnostic to the optimization path. To further reduce the computational requirements, we formulate a stochastic hypergradient approximation for differentiable NAS, and theoretically show that the architecture optimization with the proposed method is expected to converge to a stationary point. Comprehensive experiments on two NAS benchmark search spaces and the common NAS search space verify the effectiveness of our proposed method. It leads to architectures outperforming, with large margins, those learned by the baseline methods."><meta property="og:image" content="https://shiruipan.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://shiruipan.github.io/publication/kais-wu-21/">
+  <meta property="og:title" content="OpenWGL: Open-World Graph Learning for Unseen Class Node Classification | Shirui Pan">
+  <meta property="og:description" content="Graph learning, such as node classification, is typically carried out in a closed-world setting. A number of nodes are labeled, and the learning goal is to correctly classify remaining (unlabeled) nodes into classes, represented by the labeled nodes. In reality, due to limited labeling capability or dynamic evolving nature of networks, some nodes in the networks may not belong to any existing/seen classes, and therefore cannot be correctly classified by closed-world learning algorithms. In this paper, we propose a new open-world graph learning paradigm, where the learning goal is to correctly classy nodes belonging to labeled classes into correct categories, and also classify nodes not belonging to labeled classes to an unseen class. Open-world graph learning has three major challenges: (1) graphs do not have features to represent nodes for learning; (2) unseen class nodes do not have labels, and may exist in an arbitrary form different from labeled classes; and (3) graph learning should differentiate whether a node  belong to an existing/seen class or an unseen class. To tackle the challenges, we propose an uncertain node representation learning principle to use multiple versions of node feature representation to test a classifier&#39;s response on a node, through which we can differentiate whether a node belongs to the unseen class. Technical wise, we propose constrained variational graph autoencoder, using label loss and class uncertainty loss constraints, to ensure that node representation learning is sensitive to the unseen class. As a result, node embedding features are denoted by distributions, instead of deterministic feature vectors. In order to test the certainty of a node belonging to seen classes, a sampling process is proposed to generate multiple versions of feature vectors to represent each node, using automatic thresholding to reject nodes not belonging to seen classes as unseen class nodes. Experiments, using graph convolutional networks and graph attention networks on four real-world networks, demonstrate the algorithm performance. Case studies and ablation analysis also show the advantage of the uncertain representation learning and automatic threshold selection for open-world graph learning. "><meta property="og:image" content="https://shiruipan.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://shiruipan.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2021-05-08T12:15:49&#43;00:00">
+      <meta property="article:published_time" content="2021-06-11T12:15:49&#43;00:00">
     
-    <meta property="article:modified_time" content="2021-05-08T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-06-11T12:15:49&#43;00:00">
   
 
   
@@ -125,7 +125,7 @@
 
 
 
-  <title>iDARTS: Differentiable Architecture Search with Stochastic Implicit Gradients | Shirui Pan</title>
+  <title>OpenWGL: Open-World Graph Learning for Unseen Class Node Classification | Shirui Pan</title>
 
 </head>
 
@@ -461,7 +461,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">iDARTS: Differentiable Architecture Search with Stochastic Implicit Gradients</h1>
+  <h1 itemprop="name">OpenWGL: Open-World Graph Learning for Unseen Class Node Classification</h1>
 
   
 
@@ -470,8 +470,8 @@
 
 
 
-<meta content="2021-05-08 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2021-05-08 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2021-06-11 12:15:49.436331 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2021-06-11 12:15:49.436331 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -484,7 +484,7 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/miao-zhang/">Miao Zhang</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/steven-su/">Steven Su</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/shirui-pan/">Shirui Pan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/xiaojun-chang/">Xiaojun Chang</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/ehsan-abbasnejad/">Ehsan Abbasnejad</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/gholamreza-haffari/">Gholamreza Haffari</a></span>
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/man-wu/">Man Wu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/shirui-pan/">Shirui Pan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/shirui-pan/">Shirui Pan</a></span>
 
   </div>
   
@@ -496,7 +496,7 @@
     
       
     
-    <time>May 2021</time>
+    <time>June 2021</time>
   </span>
   
 
@@ -524,7 +524,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://shiruipan.github.io/publication/icml-2021-zhang/&amp;text=iDARTS:%20Differentiable%20Architecture%20Search%20with%20Stochastic%20Implicit%20Gradients" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://shiruipan.github.io/publication/kais-wu-21/&amp;text=OpenWGL:%20Open-World%20Graph%20Learning%20for%20Unseen%20Class%20Node%20Classification" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -537,7 +537,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://shiruipan.github.io/publication/icml-2021-zhang/&amp;t=iDARTS:%20Differentiable%20Architecture%20Search%20with%20Stochastic%20Implicit%20Gradients" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://shiruipan.github.io/publication/kais-wu-21/&amp;t=OpenWGL:%20Open-World%20Graph%20Learning%20for%20Unseen%20Class%20Node%20Classification" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -550,7 +550,7 @@
       
       
       <li>
-        <a href="mailto:?subject=iDARTS:%20Differentiable%20Architecture%20Search%20with%20Stochastic%20Implicit%20Gradients&amp;body=https://shiruipan.github.io/publication/icml-2021-zhang/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=OpenWGL:%20Open-World%20Graph%20Learning%20for%20Unseen%20Class%20Node%20Classification&amp;body=https://shiruipan.github.io/publication/kais-wu-21/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -563,7 +563,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://shiruipan.github.io/publication/icml-2021-zhang/&amp;title=iDARTS:%20Differentiable%20Architecture%20Search%20with%20Stochastic%20Implicit%20Gradients" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://shiruipan.github.io/publication/kais-wu-21/&amp;title=OpenWGL:%20Open-World%20Graph%20Learning%20for%20Unseen%20Class%20Node%20Classification" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -576,7 +576,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=iDARTS:%20Differentiable%20Architecture%20Search%20with%20Stochastic%20Implicit%20Gradients%20https://shiruipan.github.io/publication/icml-2021-zhang/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=OpenWGL:%20Open-World%20Graph%20Learning%20for%20Unseen%20Class%20Node%20Classification%20https://shiruipan.github.io/publication/kais-wu-21/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -589,7 +589,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://shiruipan.github.io/publication/icml-2021-zhang/&amp;title=iDARTS:%20Differentiable%20Architecture%20Search%20with%20Stochastic%20Implicit%20Gradients" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://shiruipan.github.io/publication/kais-wu-21/&amp;title=OpenWGL:%20Open-World%20Graph%20Learning%20for%20Unseen%20Class%20Node%20Classification" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -611,6 +611,8 @@
 
 
 
+  
+
 
 
 
@@ -628,12 +630,10 @@
 
 
   
-    
-  
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2106.10784.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/publication/kais-wu-21/kais-wu-21.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -665,7 +665,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Differentiable ARchiTecture Search(DARTS) has recently become the mainstream in the neural architecture search (NAS) due to its efficiency and simplicity. With a gradient-based bi-level optimization, DARTS alternately optimizes the inner model weights and the outer architecture parameter in a weight-sharing supernet. A key challenge to the scalability and quality of the learned architectures is the need for differentiating through the inner-loop optimisation. While much has been discussed about several potentially fatal factors in DARTS, the architecture gradient, a.k.a. hypergradient, has received less attention. In this paper, we tackle the hypergradient computation in DARTS based on the implicit function theorem, making it only depends on the obtained solution to the inner-loop optimization and agnostic to the optimization path. To further reduce the computational requirements, we formulate a stochastic hypergradient approximation for differentiable NAS, and theoretically show that the architecture optimization with the proposed method is expected to converge to a stationary point. Comprehensive experiments on two NAS benchmark search spaces and the common NAS search space verify the effectiveness of our proposed method. It leads to architectures outperforming, with large margins, those learned by the baseline methods.</p>
+    <p class="pub-abstract" itemprop="text">Graph learning, such as node classification, is typically carried out in a closed-world setting. A number of nodes are labeled, and the learning goal is to correctly classify remaining (unlabeled) nodes into classes, represented by the labeled nodes. In reality, due to limited labeling capability or dynamic evolving nature of networks, some nodes in the networks may not belong to any existing/seen classes, and therefore cannot be correctly classified by closed-world learning algorithms. In this paper, we propose a new open-world graph learning paradigm, where the learning goal is to correctly classy nodes belonging to labeled classes into correct categories, and also classify nodes not belonging to labeled classes to an unseen class. Open-world graph learning has three major challenges: (1) graphs do not have features to represent nodes for learning; (2) unseen class nodes do not have labels, and may exist in an arbitrary form different from labeled classes; and (3) graph learning should differentiate whether a node  belong to an existing/seen class or an unseen class. To tackle the challenges, we propose an uncertain node representation learning principle to use multiple versions of node feature representation to test a classifier&rsquo;s response on a node, through which we can differentiate whether a node belongs to the unseen class. Technical wise, we propose constrained variational graph autoencoder, using label loss and class uncertainty loss constraints, to ensure that node representation learning is sensitive to the unseen class. As a result, node embedding features are denoted by distributions, instead of deterministic feature vectors. In order to test the certainty of a node belonging to seen classes, a sampling process is proposed to generate multiple versions of feature vectors to represent each node, using automatic thresholding to reject nodes not belonging to seen classes as unseen class nodes. Experiments, using graph convolutional networks and graph attention networks on four real-world networks, demonstrate the algorithm performance. Case studies and ablation analysis also show the advantage of the uncertain representation learning and automatic threshold selection for open-world graph learning.</p>
     
 
     
@@ -677,8 +677,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#2">
+              Journal article
             </a>
             
           </div>
@@ -695,7 +695,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>Thirty-eighth International Conference on Machine Learning, ICML-21</em></div>
+          <div class="col-12 col-md-9">Knowledge and Information Systems <em>(Invited Extension for the ICDM-20 Best Student Paper)</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -711,7 +711,7 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/neural-architecture-search/">Neural Architecture Search</a>
+  <a class="badge badge-light" href="/tags/graph-neural-networks/">Graph Neural Networks</a>
   
 </div>
 
@@ -742,13 +742,13 @@
   <div class="media author-card" itemscope itemtype="http://schema.org/Person">
     
       
-      <img class="portrait mr-3" src="/authors/miao-zhang/avatar_hu21d2d3c1a3a478beb55bcc2289e56668_4881_250x250_fill_q90_lanczos_center.jpeg" itemprop="image" alt="Avatar">
+      <img class="portrait mr-3" src="/authors/man-wu/avatar_hu1fecbfdec68d71264b8c411dd497dac5_1019231_250x250_fill_q90_lanczos_center.jpeg" itemprop="image" alt="Avatar">
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/miao-zhang/">Miao Zhang</a></h5>
-      <h6 class="card-subtitle">Postdoc @ Monash</h6>
-      <p class="card-text" itemprop="description">My research interests include Neural Architecture Search(NAS), Bayesian Optimization, High-dimensional Data, and Evolutionary Algorithm.</p>
+      <h5 class="card-title" itemprop="name"><a href="/authors/man-wu/">Man Wu</a></h5>
+      <h6 class="card-subtitle">PhD Student (2020-) @ FAU</h6>
+      <p class="card-text" itemprop="description">My research interests include data mining, machine learning, and graph  analysis.</p>
       <ul class="network-icon" aria-hidden="true">
         
       </ul>
