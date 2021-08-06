@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/jia-wu/</link>
       <atom:link href="https://shiruipan.github.io/authors/jia-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jia Wu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Jan 2021 12:15:49 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Jia Wu</title>
       <link>https://shiruipan.github.io/authors/jia-wu/</link>
     </image>
+    
+    <item>
+      <title>A Survey of Community Detection Approaches: From Statistical Modeling to Deep Learning</title>
+      <link>https://shiruipan.github.io/publication/tkde-jin-21/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tkde-jin-21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Task-adaptive Neural Process for User Cold-Start Recommendation</title>

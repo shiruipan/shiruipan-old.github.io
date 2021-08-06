@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/chengqi-zhang/</link>
       <atom:link href="https://shiruipan.github.io/authors/chengqi-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Chengqi Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 12:15:49 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Chengqi Zhang</title>
       <link>https://shiruipan.github.io/authors/chengqi-zhang/</link>
     </image>
+    
+    <item>
+      <title>Deep Neighbor-aware Embedding for Node Clustering in Attributed Graphs</title>
+      <link>https://shiruipan.github.io/publication/pr-wang-21/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pr-wang-21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks</title>

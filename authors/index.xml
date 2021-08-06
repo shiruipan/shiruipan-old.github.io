@@ -5,12 +5,116 @@
     <link>https://shiruipan.github.io/authors/</link>
       <atom:link href="https://shiruipan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jun 2021 12:15:49 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://shiruipan.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>https://shiruipan.github.io/authors/ruiqi-hu/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/ruiqi-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Celina P Yu</title>
+      <link>https://shiruipan.github.io/authors/celina-p-yu/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/celina-p-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chengqi Zhang</title>
+      <link>https://shiruipan.github.io/authors/chengqi-zhang/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/chengqi-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chuan Wang</title>
+      <link>https://shiruipan.github.io/authors/chuan-wang/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/chuan-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guodong Long</title>
+      <link>https://shiruipan.github.io/authors/guodong-long/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/guodong-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shirui Pan</title>
+      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Di Jin</title>
+      <link>https://shiruipan.github.io/authors/di-jin/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/di-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dongxiao He</title>
+      <link>https://shiruipan.github.io/authors/dongxiao-he/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/dongxiao-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jia Wu</title>
+      <link>https://shiruipan.github.io/authors/jia-wu/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/jia-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pengfei Jiao</title>
+      <link>https://shiruipan.github.io/authors/pengfei-jiao/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/pengfei-jiao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philip S. Yu</title>
+      <link>https://shiruipan.github.io/authors/philip-s.-yu/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/philip-s.-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weixiong Zhang</title>
+      <link>https://shiruipan.github.io/authors/weixiong-zhang/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/weixiong-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhizhi Yu</title>
+      <link>https://shiruipan.github.io/authors/zhizhi-yu/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/zhizhi-yu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -21,26 +125,10 @@
     </item>
     
     <item>
-      <title>Shirui Pan</title>
-      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
-      <pubDate>Fri, 11 Jun 2021 12:15:49 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Xingquan Zhu</title>
       <link>https://shiruipan.github.io/authors/xingquan-zhu/</link>
       <pubDate>Fri, 11 Jun 2021 12:15:49 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/xingquan-zhu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dongxiao He</title>
-      <link>https://shiruipan.github.io/authors/dongxiao-he/</link>
-      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/dongxiao-he/</guid>
       <description></description>
     </item>
     
@@ -357,14 +445,6 @@
     </item>
     
     <item>
-      <title>Jia Wu</title>
-      <link>https://shiruipan.github.io/authors/jia-wu/</link>
-      <pubDate>Mon, 11 Jan 2021 12:15:49 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/jia-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Xixun Lin</title>
       <link>https://shiruipan.github.io/authors/xixun-lin/</link>
       <pubDate>Mon, 11 Jan 2021 12:15:49 +0000</pubDate>
@@ -469,14 +549,6 @@
     </item>
     
     <item>
-      <title>Guodong Long</title>
-      <link>https://shiruipan.github.io/authors/guodong-long/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/guodong-long/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Xue Li</title>
       <link>https://shiruipan.github.io/authors/xue-li/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
@@ -521,14 +593,6 @@
       <link>https://shiruipan.github.io/authors/jing-jiang/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/jing-jiang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chengqi Zhang</title>
-      <link>https://shiruipan.github.io/authors/chengqi-zhang/</link>
-      <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/chengqi-zhang/</guid>
       <description></description>
     </item>
     
@@ -649,14 +713,6 @@
       <link>https://shiruipan.github.io/authors/fengwen-chen/</link>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/fengwen-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://shiruipan.github.io/authors/ruiqi-hu/</link>
-      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/ruiqi-hu/</guid>
       <description></description>
     </item>
     
@@ -1113,14 +1169,6 @@
       <link>https://shiruipan.github.io/authors/mengyu-zheng/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/mengyu-zheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Philip S. Yu</title>
-      <link>https://shiruipan.github.io/authors/philip-s.-yu/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/philip-s.-yu/</guid>
       <description></description>
     </item>
     

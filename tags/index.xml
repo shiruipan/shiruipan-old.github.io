@@ -5,7 +5,7 @@
     <link>https://shiruipan.github.io/tags/</link>
       <atom:link href="https://shiruipan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jun 2021 12:15:49 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Graph Neural Networks</title>
       <link>https://shiruipan.github.io/tags/graph-neural-networks/</link>
-      <pubDate>Fri, 11 Jun 2021 12:15:49 +0000</pubDate>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/tags/graph-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community detection</title>
+      <link>https://shiruipan.github.io/tags/community-detection/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/tags/community-detection/</guid>
       <description></description>
     </item>
     
@@ -745,14 +753,6 @@
       <link>https://shiruipan.github.io/tags/cliques/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/tags/cliques/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Community detection</title>
-      <link>https://shiruipan.github.io/tags/community-detection/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/tags/community-detection/</guid>
       <description></description>
     </item>
     
