@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://shiruipan.github.io/authors/chun-wang/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shiruipan.github.io/authors/ruiqi-hu/</loc>
     <lastmod>2021-08-05T00:00:00+00:00</lastmod>
   </url>
@@ -24,11 +29,6 @@
   
   <url>
     <loc>https://shiruipan.github.io/authors/chengqi-zhang/</loc>
-    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/authors/chuan-wang/</loc>
     <lastmod>2021-08-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,12 +58,12 @@
   </url>
   
   <url>
-    <loc>https://shiruipan.github.io/authors/shirui-pan/</loc>
+    <loc>https://shiruipan.github.io/</loc>
     <lastmod>2021-08-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiruipan.github.io/</loc>
+    <loc>https://shiruipan.github.io/authors/shirui-pan/</loc>
     <lastmod>2021-08-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -585,11 +585,6 @@
   <url>
     <loc>https://shiruipan.github.io/authors/zi-huang/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/authors/chun-wang/</loc>
-    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
