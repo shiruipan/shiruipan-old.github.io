@@ -5,12 +5,52 @@
     <link>https://shiruipan.github.io/authors/</link>
       <atom:link href="https://shiruipan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://shiruipan.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Hadi Zare</title>
+      <link>https://shiruipan.github.io/authors/hadi-zare/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/hadi-zare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mahdi Jalili</title>
+      <link>https://shiruipan.github.io/authors/mahdi-jalili/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/mahdi-jalili/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nima Bousejin</title>
+      <link>https://shiruipan.github.io/authors/nima-bousejin/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/nima-bousejin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shirui Pan</title>
+      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soheila Molaei</title>
+      <link>https://shiruipan.github.io/authors/soheila-molaei/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/soheila-molaei/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -49,14 +89,6 @@
       <link>https://shiruipan.github.io/authors/guodong-long/</link>
       <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/guodong-long/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shirui Pan</title>
-      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
-      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
       <description></description>
     </item>
     
