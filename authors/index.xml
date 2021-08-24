@@ -309,6 +309,14 @@
     </item>
     
     <item>
+      <title></title>
+      <link>https://shiruipan.github.io/authors/sheng-wan/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/sheng-wan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jian Yang</title>
       <link>https://shiruipan.github.io/authors/jian-yang/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
@@ -321,14 +329,6 @@
       <link>https://shiruipan.github.io/authors/ping-zhong/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/ping-zhong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sheng Wan</title>
-      <link>https://shiruipan.github.io/authors/sheng-wan/</link>
-      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/sheng-wan/</guid>
       <description></description>
     </item>
     
@@ -1467,7 +1467,7 @@
       <guid>https://shiruipan.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Shirui Pan is an ARC Future Fellow (awarded in 2021) and Senior Lecturer (&lt;a href=&#34;https://en.wikipedia.org/wiki/Senior_lecturer&#34; target=&#34;_blank&#34;&gt;equiv.&lt;/a&gt;  Associate Professor in US) with the &lt;a href=&#34;https://www.monash.edu/it/dsai&#34; target=&#34;_blank&#34;&gt;Department of Data Science &amp;amp; AI&lt;/a&gt;, &lt;a href=&#34;https://www.monash.edu/it&#34; target=&#34;_blank&#34;&gt;Faculty of Information Technology&lt;/a&gt;, &lt;a href=&#34;https://www.monash.edu/&#34; target=&#34;_blank&#34;&gt;Monash University&lt;/a&gt;.  He received his Ph.D degree in computer science from UTS, Australia.&lt;/p&gt;
 
-&lt;p&gt;Shirui has made contributions to advance graph machine learning methods for solving hard AI problems for real-life applications, including graph classification, anomaly detection, recommender systems, and multivariate time series forecasting. His research has been published in top conferences and journals including NeurIPS, ICML, KDD, TPAMI, TNNLS, and TKDE.  He is recognised as one of the AI 2000 AAAI/IJCAI Most Influential Scholars in Australia (2021). He is an awardee of the prestigious Future Fellowship (2021-2025), one of the most competitive grants from the Australian Research Council (ARC).&lt;/p&gt;
+&lt;p&gt;Shirui has made contributions to advance graph machine learning methods for solving hard AI problems for real-life applications, including graph classification, anomaly detection, recommender systems, and multivariate time series forecasting. His research has been published in top conferences and journals including NeurIPS, ICML, KDD, TPAMI, TNNLS, and TKDE.  He is recognised as one of the &lt;a href=&#34;../../post/ai-2000-certificate.png&#34;&gt;AI 2000 AAAI/IJCAI Most Influential Scholars&lt;/a&gt;  in Australia (2021). He is an awardee of a prestigious &lt;a href=&#34;https://www.monash.edu/news/articles/five-monash-researchers-share-$4.6m-in-future-fellowship-funding&#34; target=&#34;_blank&#34;&gt;Future Fellowship&lt;/a&gt; (2021-2025),  one of the most competitive grants from the Australian Research Council (ARC).&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;b&gt; I am looking for self-motivated Ph.D students. Applicants in Australia are especially welcome.  See more information &lt;a href=&#34;../../post/phd_position&#34;&gt;here&lt;/a&gt;. &lt;/b&gt; &lt;/span&gt;&lt;/p&gt;
 
