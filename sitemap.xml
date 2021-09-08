@@ -3,17 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shiruipan.github.io/publication_types/2/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+    <loc>https://shiruipan.github.io/authors/bang-wu/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/publication_types/1/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/publication/icdm-21-wu/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/tags/attacks/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://shiruipan.github.io/authors/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://shiruipan.github.io/tags/graph-neural-networks/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/publication/icdm-21-jia/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/linhua-dong/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/publication_types/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/publication/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/tags/recommender-systems/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/renqi-jia/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/shirui-pan/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/tags/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/xiangwen-yang/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/xiaofei-zhou/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/xingliang-yuan/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/publication_types/2/</loc>
     <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,33 +118,68 @@
   </url>
   
   <url>
-    <loc>https://shiruipan.github.io/publication_types/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/publication/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/authors/shirui-pan/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://shiruipan.github.io/authors/soheila-molaei/</loc>
     <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiruipan.github.io/tags/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+    <loc>https://shiruipan.github.io/authors/he-zhang/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/ming-jin/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/yixin-liu/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/tags/adversarial-attacks/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/publication/cikm-21-jin/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/publication/cikm-21-zhang/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/tags/anomaly-detection/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/chuan-zhou/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/lianhua-chi/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/shuo-wang/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/yu-zheng/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/yuan-fang-li/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -198,11 +313,6 @@
   </url>
   
   <url>
-    <loc>https://shiruipan.github.io/publication_types/1/</loc>
-    <lastmod>2021-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://shiruipan.github.io/authors/ehsan-abbasnejad/</loc>
     <lastmod>2021-05-08T00:00:00+00:00</lastmod>
   </url>
@@ -253,11 +363,6 @@
   </url>
   
   <url>
-    <loc>https://shiruipan.github.io/authors/ming-jin/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://shiruipan.github.io/authors/yizhen-zheng/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url>
@@ -268,22 +373,12 @@
   </url>
   
   <url>
-    <loc>https://shiruipan.github.io/authors/chuan-zhou/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://shiruipan.github.io/publication/ijcai-2021-jin/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://shiruipan.github.io/tags/self-supervised-learning/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/authors/yuan-fang-li/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -398,16 +493,6 @@
   </url>
   
   <url>
-    <loc>https://shiruipan.github.io/authors/yixin-liu/</loc>
-    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/tags/anomaly-detection/</loc>
-    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://shiruipan.github.io/publication/tnnls-21-liu/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
@@ -459,11 +544,6 @@
   
   <url>
     <loc>https://shiruipan.github.io/authors/bin-wang/</loc>
-    <lastmod>2021-01-11T12:15:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/tags/recommender-systems/</loc>
     <lastmod>2021-01-11T12:15:49+00:00</lastmod>
   </url>
   
@@ -773,11 +853,6 @@
   </url>
   
   <url>
-    <loc>https://shiruipan.github.io/authors/xiaofei-zhou/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://shiruipan.github.io/authors/yue-yuan/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
@@ -889,11 +964,6 @@
   
   <url>
     <loc>https://shiruipan.github.io/authors/ting-guo/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/authors/yu-zheng/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -1709,11 +1779,6 @@
   
   <url>
     <loc>https://shiruipan.github.io/authors/li-zhu/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/authors/lianhua-chi/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -2547,19 +2612,11 @@
   </url>
   
   <url>
-    <loc>https://shiruipan.github.io/authors/bang-wu/</loc>
-  </url>
-  
-  <url>
     <loc>https://shiruipan.github.io/authors/dongwon-ryu/</loc>
   </url>
   
   <url>
     <loc>https://shiruipan.github.io/authors/guangsi-shi/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/authors/he-zhang/</loc>
   </url>
   
   <url>

@@ -5,12 +5,28 @@
     <link>https://shiruipan.github.io/authors/bang-wu/</link>
       <atom:link href="https://shiruipan.github.io/authors/bang-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Shirui Pan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Shirui Pan</title>
       <link>https://shiruipan.github.io/authors/bang-wu/</link>
     </image>
+    
+    <item>
+      <title>Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications</title>
+      <link>https://shiruipan.github.io/publication/icdm-21-wu/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-21-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning</title>
+      <link>https://shiruipan.github.io/publication/cikm-21-zhang/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/cikm-21-zhang/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

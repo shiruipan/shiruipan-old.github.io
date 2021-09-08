@@ -5,7 +5,7 @@
     <link>https://shiruipan.github.io/tags/</link>
       <atom:link href="https://shiruipan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>Attacks</title>
+      <link>https://shiruipan.github.io/tags/attacks/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/tags/attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Graph Neural Networks</title>
       <link>https://shiruipan.github.io/tags/graph-neural-networks/</link>
-      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/tags/graph-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommender Systems</title>
+      <link>https://shiruipan.github.io/tags/recommender-systems/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/tags/recommender-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Attacks</title>
+      <link>https://shiruipan.github.io/tags/adversarial-attacks/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/tags/adversarial-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection</title>
+      <link>https://shiruipan.github.io/tags/anomaly-detection/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/tags/anomaly-detection/</guid>
       <description></description>
     </item>
     
@@ -77,26 +109,10 @@
     </item>
     
     <item>
-      <title>Anomaly Detection</title>
-      <link>https://shiruipan.github.io/tags/anomaly-detection/</link>
-      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/tags/anomaly-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Positive unlabeled learning</title>
       <link>https://shiruipan.github.io/tags/positive-unlabeled-learning/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/tags/positive-unlabeled-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recommender Systems</title>
-      <link>https://shiruipan.github.io/tags/recommender-systems/</link>
-      <pubDate>Mon, 11 Jan 2021 12:15:49 +0000</pubDate>
-      <guid>https://shiruipan.github.io/tags/recommender-systems/</guid>
       <description></description>
     </item>
     

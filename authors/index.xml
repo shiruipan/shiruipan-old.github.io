@@ -5,12 +5,68 @@
     <link>https://shiruipan.github.io/authors/</link>
       <atom:link href="https://shiruipan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://shiruipan.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>https://shiruipan.github.io/authors/bang-wu/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/bang-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linhua Dong</title>
+      <link>https://shiruipan.github.io/authors/linhua-dong/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/linhua-dong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renqi Jia</title>
+      <link>https://shiruipan.github.io/authors/renqi-jia/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/renqi-jia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shirui Pan</title>
+      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiangwen Yang</title>
+      <link>https://shiruipan.github.io/authors/xiangwen-yang/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/xiangwen-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaofei Zhou</title>
+      <link>https://shiruipan.github.io/authors/xiaofei-zhou/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/xiaofei-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xingliang Yuan</title>
+      <link>https://shiruipan.github.io/authors/xingliang-yuan/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/xingliang-yuan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hadi Zare</title>
@@ -37,18 +93,74 @@
     </item>
     
     <item>
-      <title>Shirui Pan</title>
-      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
-      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Soheila Molaei</title>
       <link>https://shiruipan.github.io/authors/soheila-molaei/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/soheila-molaei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://shiruipan.github.io/authors/he-zhang/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/he-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://shiruipan.github.io/authors/ming-jin/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/ming-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://shiruipan.github.io/authors/yixin-liu/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/yixin-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chuan Zhou</title>
+      <link>https://shiruipan.github.io/authors/chuan-zhou/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/chuan-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lianhua Chi</title>
+      <link>https://shiruipan.github.io/authors/lianhua-chi/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/lianhua-chi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shuo Wang</title>
+      <link>https://shiruipan.github.io/authors/shuo-wang/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/shuo-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yu Zheng</title>
+      <link>https://shiruipan.github.io/authors/yu-zheng/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/yu-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuan-Fang Li</title>
+      <link>https://shiruipan.github.io/authors/yuan-fang-li/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/yuan-fang-li/</guid>
       <description></description>
     </item>
     
@@ -270,14 +382,6 @@
     
     <item>
       <title></title>
-      <link>https://shiruipan.github.io/authors/ming-jin/</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/ming-jin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://shiruipan.github.io/authors/yizhen-zheng/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/yizhen-zheng/</guid>
@@ -289,22 +393,6 @@
       <link>https://shiruipan.github.io/authors/chen-gong/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/chen-gong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chuan Zhou</title>
-      <link>https://shiruipan.github.io/authors/chuan-zhou/</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/chuan-zhou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yuan-Fang Li</title>
-      <link>https://shiruipan.github.io/authors/yuan-fang-li/</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/yuan-fang-li/</guid>
       <description></description>
     </item>
     
@@ -409,14 +497,6 @@
       <link>https://shiruipan.github.io/authors/shuo-yu/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/shuo-yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://shiruipan.github.io/authors/yixin-liu/</link>
-      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/yixin-liu/</guid>
       <description></description>
     </item>
     
@@ -709,14 +789,6 @@
     </item>
     
     <item>
-      <title>Xiaofei Zhou</title>
-      <link>https://shiruipan.github.io/authors/xiaofei-zhou/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/xiaofei-zhou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Yue Yuan</title>
       <link>https://shiruipan.github.io/authors/yue-yuan/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
@@ -801,14 +873,6 @@
       <link>https://shiruipan.github.io/authors/ting-guo/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/ting-guo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yu Zheng</title>
-      <link>https://shiruipan.github.io/authors/yu-zheng/</link>
-      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/yu-zheng/</guid>
       <description></description>
     </item>
     
@@ -1173,14 +1237,6 @@
     </item>
     
     <item>
-      <title>Lianhua Chi</title>
-      <link>https://shiruipan.github.io/authors/lianhua-chi/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/lianhua-chi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Libin Yang</title>
       <link>https://shiruipan.github.io/authors/libin-yang/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -1477,14 +1533,6 @@
     
     <item>
       <title></title>
-      <link>https://shiruipan.github.io/authors/bang-wu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/bang-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://shiruipan.github.io/authors/dongwon-ryu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/dongwon-ryu/</guid>
@@ -1496,14 +1544,6 @@
       <link>https://shiruipan.github.io/authors/guangsi-shi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/guangsi-shi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://shiruipan.github.io/authors/he-zhang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/he-zhang/</guid>
       <description></description>
     </item>
     

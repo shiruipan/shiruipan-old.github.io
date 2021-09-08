@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/tags/anomaly-detection/</link>
       <atom:link href="https://shiruipan.github.io/tags/anomaly-detection/index.xml" rel="self" type="application/rss+xml" />
     <description>Anomaly Detection</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Anomaly Detection</title>
       <link>https://shiruipan.github.io/tags/anomaly-detection/</link>
     </image>
+    
+    <item>
+      <title>ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning</title>
+      <link>https://shiruipan.github.io/publication/cikm-21-jin/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/cikm-21-jin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning</title>
