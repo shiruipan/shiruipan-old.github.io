@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/sheng-wan/</link>
       <atom:link href="https://shiruipan.github.io/authors/sheng-wan/index.xml" rel="self" type="application/rss+xml" />
     <description>Shirui Pan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Shirui Pan</title>
       <link>https://shiruipan.github.io/authors/sheng-wan/</link>
     </image>
+    
+    <item>
+      <title>Contrastive Graph Poisson Networks: Semi-Supervised Learning with Extremely Limited Labels</title>
+      <link>https://shiruipan.github.io/publication/neurips-21-wan/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-21-wan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dual Interactive Graph Convolutional Networks for Hyperspectral Image Classification</title>

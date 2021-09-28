@@ -3,12 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shiruipan.github.io/authors/bang-wu/</loc>
-    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+    <loc>https://shiruipan.github.io/authors/sheng-wan/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://shiruipan.github.io/publication_types/1/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/baosheng-yu/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/chen-gong/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/publication/neurips-21-wan/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/tags/contrastive-learning/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/tags/graph-neural-networks/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/liu-liu/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/publication_types/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/publication/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/shirui-pan/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/tags/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/yibing-zhan/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiruipan.github.io/authors/bang-wu/</loc>
     <lastmod>2021-08-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,16 +93,6 @@
   </url>
   
   <url>
-    <loc>https://shiruipan.github.io/authors/</loc>
-    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/tags/graph-neural-networks/</loc>
-    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://shiruipan.github.io/publication/icdm-21-jia/</loc>
     <lastmod>2021-08-31T00:00:00+00:00</lastmod>
   </url>
@@ -43,37 +103,12 @@
   </url>
   
   <url>
-    <loc>https://shiruipan.github.io/publication_types/</loc>
-    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/publication/</loc>
-    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://shiruipan.github.io/tags/recommender-systems/</loc>
     <lastmod>2021-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://shiruipan.github.io/authors/renqi-jia/</loc>
-    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/authors/shirui-pan/</loc>
-    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/</loc>
-    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/tags/</loc>
     <lastmod>2021-08-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -403,11 +438,6 @@
   </url>
   
   <url>
-    <loc>https://shiruipan.github.io/authors/chen-gong/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://shiruipan.github.io/publication/ijcai-2021-jin/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url>
@@ -415,11 +445,6 @@
   <url>
     <loc>https://shiruipan.github.io/tags/self-supervised-learning/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/authors/sheng-wan/</loc>
-    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -594,11 +619,6 @@
   
   <url>
     <loc>https://shiruipan.github.io/publication/aaai-2021-wan/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiruipan.github.io/tags/contrastive-learning/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   

@@ -5,12 +5,60 @@
     <link>https://shiruipan.github.io/authors/</link>
       <atom:link href="https://shiruipan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://shiruipan.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>https://shiruipan.github.io/authors/sheng-wan/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/sheng-wan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baosheng Yu</title>
+      <link>https://shiruipan.github.io/authors/baosheng-yu/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/baosheng-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chen Gong</title>
+      <link>https://shiruipan.github.io/authors/chen-gong/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/chen-gong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liu Liu</title>
+      <link>https://shiruipan.github.io/authors/liu-liu/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/liu-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shirui Pan</title>
+      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yibing Zhan</title>
+      <link>https://shiruipan.github.io/authors/yibing-zhan/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/authors/yibing-zhan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -33,14 +81,6 @@
       <link>https://shiruipan.github.io/authors/renqi-jia/</link>
       <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/renqi-jia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shirui Pan</title>
-      <link>https://shiruipan.github.io/authors/shirui-pan/</link>
-      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/shirui-pan/</guid>
       <description></description>
     </item>
     
@@ -425,22 +465,6 @@
       <link>https://shiruipan.github.io/authors/yizhen-zheng/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/authors/yizhen-zheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chen Gong</title>
-      <link>https://shiruipan.github.io/authors/chen-gong/</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/chen-gong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://shiruipan.github.io/authors/sheng-wan/</link>
-      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/authors/sheng-wan/</guid>
       <description></description>
     </item>
     

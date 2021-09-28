@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/publication/</link>
       <atom:link href="https://shiruipan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://shiruipan.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Contrastive Graph Poisson Networks: Semi-Supervised Learning with Extremely Limited Labels</title>
+      <link>https://shiruipan.github.io/publication/neurips-21-wan/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-21-wan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications</title>

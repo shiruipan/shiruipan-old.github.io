@@ -5,7 +5,7 @@
     <link>https://shiruipan.github.io/tags/</link>
       <atom:link href="https://shiruipan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Attacks</title>
-      <link>https://shiruipan.github.io/tags/attacks/</link>
-      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/tags/attacks/</guid>
+      <title>Contrastive Learning</title>
+      <link>https://shiruipan.github.io/tags/contrastive-learning/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/tags/contrastive-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graph Neural Networks</title>
       <link>https://shiruipan.github.io/tags/graph-neural-networks/</link>
-      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/tags/graph-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attacks</title>
+      <link>https://shiruipan.github.io/tags/attacks/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/tags/attacks/</guid>
       <description></description>
     </item>
     
@@ -121,14 +129,6 @@
       <link>https://shiruipan.github.io/tags/positive-unlabeled-learning/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/tags/positive-unlabeled-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contrastive Learning</title>
-      <link>https://shiruipan.github.io/tags/contrastive-learning/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/tags/contrastive-learning/</guid>
       <description></description>
     </item>
     

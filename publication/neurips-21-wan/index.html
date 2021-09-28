@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="ARC Future Fellow">
+  <meta name="description" content="Graph Neural Networks (GNNs) have achieved remarkable performance in the task of semi-supervised node classification. However, most existing GNN models require sufficient labeled data for effective network training. Their performance can be seriously degraded when labels are extremely limited. To address this issue, we propose a new framework termed Contrastive Graph Poisson Networks (CGPN) for node classification under extremely limited labeled data. Specifically, our CGPN derives from variational inference; integrates a newly designed Graph Poisson Network (GPN) to effectively propagate the limited labels to the entire graph and a normal GNN, such as Graph Attention Network, that flexibly guides the propagation of GPN; applies a contrastive objective to further exploit the supervision information from the learning process of GPN and GNN models. Essentially, our CGPN can enhance the learning performance of GNNs under extremely limited labels by contrastively propagating the limited labels to the entire graph. We conducted extensive experiments to demonstrate the superiority of CGPN. Specifically, when given only one label per category, our method significantly outperforms the second best competitors by 9.2%, 23.5%, and 6.7% on Cora, CiteSeer, and PubMed datasets, respectively. Codes are provided in the supplemental materials and will be released on GitHub.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://shiruipan.github.io/authors/">
+  <link rel="alternate" hreflang="en-us" href="https://shiruipan.github.io/publication/neurips-21-wan/">
 
   
 
@@ -87,14 +87,12 @@
   
 
   
-  <link rel="alternate" href="/authors/index.xml" type="application/rss+xml" title="Shirui Pan">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://shiruipan.github.io/authors/">
+  <link rel="canonical" href="https://shiruipan.github.io/publication/neurips-21-wan/">
 
   
   
@@ -107,12 +105,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Shirui Pan">
-  <meta property="og:url" content="https://shiruipan.github.io/authors/">
-  <meta property="og:title" content="Authors | Shirui Pan">
-  <meta property="og:description" content="ARC Future Fellow"><meta property="og:image" content="https://shiruipan.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://shiruipan.github.io/publication/neurips-21-wan/">
+  <meta property="og:title" content="Contrastive Graph Poisson Networks: Semi-Supervised Learning with Extremely Limited Labels | Shirui Pan">
+  <meta property="og:description" content="Graph Neural Networks (GNNs) have achieved remarkable performance in the task of semi-supervised node classification. However, most existing GNN models require sufficient labeled data for effective network training. Their performance can be seriously degraded when labels are extremely limited. To address this issue, we propose a new framework termed Contrastive Graph Poisson Networks (CGPN) for node classification under extremely limited labeled data. Specifically, our CGPN derives from variational inference; integrates a newly designed Graph Poisson Network (GPN) to effectively propagate the limited labels to the entire graph and a normal GNN, such as Graph Attention Network, that flexibly guides the propagation of GPN; applies a contrastive objective to further exploit the supervision information from the learning process of GPN and GNN models. Essentially, our CGPN can enhance the learning performance of GNNs under extremely limited labels by contrastively propagating the limited labels to the entire graph. We conducted extensive experiments to demonstrate the superiority of CGPN. Specifically, when given only one label per category, our method significantly outperforms the second best competitors by 9.2%, 23.5%, and 6.7% on Cora, CiteSeer, and PubMed datasets, respectively. Codes are provided in the supplemental materials and will be released on GitHub."><meta property="og:image" content="https://shiruipan.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://shiruipan.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-09-28T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2021-09-28T12:15:49&#43;00:00">
+    
+    <meta property="article:modified_time" content="2021-09-28T00:00:00&#43;00:00">
   
 
   
@@ -124,7 +125,7 @@
 
 
 
-  <title>Authors | Shirui Pan</title>
+  <title>Contrastive Graph Poisson Networks: Semi-Supervised Learning with Extremely Limited Labels | Shirui Pan</title>
 
 </head>
 
@@ -468,88 +469,294 @@
 </nav>
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
+  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
 
+
+
+
+
+
+
+
+
+
+
+
+  
+
   
   
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Contrastive Graph Poisson Networks: Semi-Supervised Learning with Extremely Limited Labels</h1>
+
+  
+
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Authors</h1>
+
+
+
+<meta content="2021-09-28 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2021-09-28 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
 
   
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sheng-wan/">Sheng Wan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/yibing-zhan/">Yibing Zhan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/liu-liu/">Liu Liu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/baosheng-yu/">Baosheng Yu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/shirui-pan/">Shirui Pan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/chen-gong/">Chen Gong</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>September 2021</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://shiruipan.github.io/publication/neurips-21-wan/&amp;text=Contrastive%20Graph%20Poisson%20Networks:%20Semi-Supervised%20Learning%20with%20Extremely%20Limited%20Labels" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://shiruipan.github.io/publication/neurips-21-wan/&amp;t=Contrastive%20Graph%20Poisson%20Networks:%20Semi-Supervised%20Learning%20with%20Extremely%20Limited%20Labels" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Contrastive%20Graph%20Poisson%20Networks:%20Semi-Supervised%20Learning%20with%20Extremely%20Limited%20Labels&amp;body=https://shiruipan.github.io/publication/neurips-21-wan/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://shiruipan.github.io/publication/neurips-21-wan/&amp;title=Contrastive%20Graph%20Poisson%20Networks:%20Semi-Supervised%20Learning%20with%20Extremely%20Limited%20Labels" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Contrastive%20Graph%20Poisson%20Networks:%20Semi-Supervised%20Learning%20with%20Extremely%20Limited%20Labels%20https://shiruipan.github.io/publication/neurips-21-wan/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://shiruipan.github.io/publication/neurips-21-wan/&amp;title=Contrastive%20Graph%20Poisson%20Networks:%20Semi-Supervised%20Learning%20with%20Extremely%20Limited%20Labels" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Graph Neural Networks (GNNs) have achieved remarkable performance in the task of semi-supervised node classification. However, most existing GNN models require sufficient labeled data for effective network training. Their performance can be seriously degraded when labels are extremely limited. To address this issue, we propose a new framework termed Contrastive Graph Poisson Networks (CGPN) for node classification under extremely limited labeled data. Specifically, our CGPN derives from variational inference; integrates a newly designed Graph Poisson Network (GPN) to effectively propagate the limited labels to the entire graph and a normal GNN, such as Graph Attention Network, that flexibly guides the propagation of GPN; applies a contrastive objective to further exploit the supervision information from the learning process of GPN and GNN models. Essentially, our CGPN can enhance the learning performance of GNNs under extremely limited labels by contrastively propagating the limited labels to the entire graph. We conducted extensive experiments to demonstrate the superiority of CGPN. Specifically, when given only one label per category, our method significantly outperforms the second best competitors by 9.2%, 23.5%, and 6.7% on Cora, CiteSeer, and PubMed datasets, respectively. Codes are provided in the supplemental materials and will be released on GitHub.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>2021 Conference on Neural Information Processing Systems, NeurIPS-21, Virtual-only Conference, 6-14, December, 2021</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+<div class="article-tags">
   
-
-  <ul>
-    
-    
-      
-      <li><a href="https://shiruipan.github.io/authors/ehsan-abbasnejad/">Ehsan Abbasnejad</a></li>
-    
-      
-      <li><a href="https://shiruipan.github.io/authors/gholamreza-haffari/">Gholamreza Haffari</a></li>
-    
-      
-      <li><a href="https://shiruipan.github.io/authors/steven-su/">Steven Su</a></li>
-    
-      
-      <li><a href="https://shiruipan.github.io/authors/xiaojun-chang/">Xiaojun Chang</a></li>
-    
-      
-      <li><a href="https://shiruipan.github.io/authors/shaoxiong-ji/">Shaoxiong Ji</a></li>
-    
-      
-      <li><a href="https://shiruipan.github.io/authors/pekka-marttinen/">Pekka Marttinen</a></li>
-    
-      
-      <li><a href="https://shiruipan.github.io/authors/yizhen-zheng/">Yizhen Zheng</a></li>
-    
-      
-      <li><a href="https://shiruipan.github.io/authors/jian-yang/">Jian Yang</a></li>
-    
-      
-      <li><a href="https://shiruipan.github.io/authors/ping-zhong/">Ping Zhong</a></li>
-    
-      
-      <li><a href="https://shiruipan.github.io/authors/zonghan-wu/">Zonghan Wu</a></li>
-    
-  </ul>
-
+  <a class="badge badge-light" href="/tags/contrastive-learning/">Contrastive Learning</a>
   
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    <li class="page-item"><a class="page-link" href="/authors/page/5/">&laquo;</a></li>
-    
-    
-    <li class="page-item"><a class="page-link" href="/authors/page/7/">&raquo;</a></li>
-    
-  </ul>
-</nav>
-
-
+  <a class="badge badge-light" href="/tags/graph-neural-networks/">Graph Neural Networks</a>
+  
 </div>
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+      
+      <img class="portrait mr-3" src="/authors/sheng-wan/avatar_hue2030b629f963dcd00c5232b359a4344_164278_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/sheng-wan/">Sheng Wan</a></h5>
+      <h6 class="card-subtitle">PhD Student @ NUST</h6>
+      <p class="card-text" itemprop="description">My research interests include Graph Neural Networks, Contrastive Learning, and Hyperspectral Image Processing.</p>
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+    
+
+
+  </div>
+</div>
+
+
 
       
 
